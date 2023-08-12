@@ -1,0 +1,1201 @@
+Nirajan Shiwakoti, Peter Stasinopoulos, Paul Vincec, Weidong Qian, Renan Hafsar,
+Exploring how perceptive differences impact the current public transport usage and support for future public transport extension and usage: A case study of Melbourne's tramline extension,
+Transport Policy,
+Volume 84,
+2019,
+Pages 12-23,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.10.002.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19301398)
+Abstract: Although users' perceptions on public transport have been long identified by researchers as important factors in travel mode choice, limited studies exist to examine the impact of perceptions on support for future public transport extension and subsequent usage. Therefore, the objective of this study is to examine the effect of perceived experience of public transport use on users’ support for the future extension and usage of public transport services. An analysis of survey data on users’ perceptions of current public transport usage and support for a future tramline extension and usage in Melbourne, Australia, shows that expected tramline extension usage frequency is significantly related to whether users support the extension. The modal shift after the tramline extension will most likely come from current train and bus users. Further, it was observed that factors such as travel time to weekly activity, travel costs to weekly activity, mode of nearest public transport to home, walk time to nearest public transport, the existence of a tramline in the suburb and feelings of safety on trams need to be given due consideration when planning for extension of tramlines. The findings from our study are valuable resources for planners and decision makers involved in investment in public transport services.
+Keywords: Streetcar; Transport planning; Mode choice; Survey; Passengers
+
+Like Jiang, Haibo Chen, Zhiyang Chen,
+City readiness for connected and autonomous vehicles: A multi-stakeholder and multi-criteria analysis through analytic hierarchy process,
+Transport Policy,
+Volume 128,
+2022,
+Pages 13-24,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.09.012.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22002542)
+Abstract: The past decade has seen a rapid acceleration in investment on and development of connected and autonomous vehicles (CAVs). Cities need to be ready for the mass adoption of CAVs, to harness their benefits and minimise negative impacts. However, currently there are no concrete frameworks and criteria to measure city readiness for CAVs, and existing literature lacks quantitative multi-stakeholder analysis for this multi-stakeholder issue. This study thus aims to contribute to the knowledge gaps by exploring different stakeholders' assessment criteria on cities’ infrastructure readiness, policy and regulation readiness, and citizen readiness for CAVs, using analytic hierarchy process (AHP). Data were collected through an online survey (N = 381) with participants representing three professional and three general public stakeholder groups. The results show that infrastructure readiness was overall considered most important, and there were different opinions between stakeholder groups especially regarding policy and regulation readiness. These differences might be associated with stakeholder groups' expectations on the potential impacts of CAVs. Exchanges of views and concerns between different stakeholder groups are needed to gain a comprehensive understanding of how cities can be best prepared for CAVs.
+Keywords: Connected and autonomous vehicle (CAV); City readiness; Analytic hierarchy process (AHP); Multistakeholder; Multicriteria assessment
+
+Jesper Provoost, Oded Cats, Serge Hoogendoorn,
+Design and classification of tradable mobility credit schemes,
+Transport Policy,
+Volume 136,
+2023,
+Pages 59-69,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.03.010.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23000690)
+Abstract: The ongoing research on tradable credit schemes (TCS) in mobility has captured the attention of policymakers, authorities and academics. Even though several studies have demonstrated the potential of such schemes, key policy design aspects that are relevant for real world implementation have been overlooked. There exists insofar no blueprint for an actual application of a TCS. We therefore propose a single all-encompassing framework for designing a TCS based on three dimensions: ownership, transfer and consumption. This framework has been developed through the extraction of policy design questions in the existing literature on TCS as well as alternative demand management schemes. Literature on the design of central bank digital currencies (CBDC) and digital tokens has been used to derive additional decisions regarding technical implementation and regulation. The decisions that are incorporated in the framework facilitate the comparison of different scheme designs in a three-dimensional space, addressing aspects of security, anonymity, centralization and technical feasibility. Hence, it provides policymakers and responsible authorities with a comprehensive framework on the essential decisions that need to be made upon practical application of a tradable credit scheme. It also serves as a means to classify existing work and develop new (or more realistic) variants of TCS that can be studied in future research endeavors. Based on the proposed framework, we devise an extensive research agenda describing directions for future research on tradable credit schemes across a variety of themes.
+Keywords: Demand management; Pricing policy; Tradable mobility credits; Policy design
+
+Xiaohong Chen, Yingjie Guo, Chao Yang, Fangyi Ding, Quan Yuan,
+Exploring essential travel during COVID-19 quarantine: Evidence from China,
+Transport Policy,
+Volume 111,
+2021,
+Pages 90-97,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.07.016.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21002171)
+Abstract: The COVID-19 has created significant impacts on the economy and individual life around the world. Various countries and cities have adopted corresponding control measures to reduce transport activities and maintain social distance to combat the spread of COVID-19. In the circumstances, residents only maintained essential travel to ensure a normal and fundamental life. In order to explore the impacts of the epidemic and control measures on individually essential travel, we have collected 513 questionnaires between February and March 2020 in China to investigate the various characteristics of essential travel. Using a multivariate logistic regression model, we examine the major factors that potentially impact the mode choices of essential travel. Results show that various socioeconomic, transport supply, health concern and travel purpose have significantly influenced travel mode choices of essential travel. The concept of essential travel will, in the era of port-pandemic, have profound implications on transportation policy making, especially on how to improve the fundamental welfare of the disadvantaged population.
+Keywords: Covid-19 pandemic; Essential travel; Mode choices; Quarantine; Logistic regression; China
+
+Félix Vautard, Chengxi Liu, Oskar Fröidh, Camilla Byström,
+Estimation of interregional rail passengers’ valuations for their desired departure times,
+Transport Policy,
+Volume 103,
+2021,
+Pages 183-196,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.02.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X2100038X)
+Abstract: Valuations for various attributes of the transport supply are key parameters in travel demand forecast models and cost-benefit analyses. In the case of interregional rail travel, such attributes are mostly travel time, departure/arrival time, and comfort/service levels. Although the valuations for travel time savings and comfort levels are well documented, literature concerning how much passengers are willing to pay to obtain the departure/arrival time that best suits their needs remains scarce. We present in this paper a new study that estimates passenger valuations for reduction of departure time displacement (also called schedule delay) through common adaptation of the scheduling model. Our goal is twofold: first, better understand how travel scheduling is influenced by socioeconomic backgrounds and trip characteristics; second, provide detailed figures that can be used to improve travel demand forecasts and cost-benefit analyses. To achieve this, we conducted a stated preference survey on several Swedish rail routes and determined the valuations for departure time scheduling as willingness to pay and time multipliers. The figures obtained show that departure time flexibility greatly depends on trip characteristics and travellers’ socio-economic background. In addition, the comparison of our figures with previous literature highlights the need to establish a standardised method to measure and use these valuations. Finally, we succeeded in providing valuations that can be used with care as approximations in demand modelling and cost-benefit analyses in the context of interregional rail travel.
+Keywords: Willingness to pay; Interregional travel; Departure time choice; Scheduled delay; Stated preferences
+
+Joachim Scheiner,
+Transport costs seen through the lens of residential self-selection and mobility biographies,
+Transport Policy,
+Volume 65,
+2018,
+Pages 126-136,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2016.08.012.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16305522)
+Abstract: This position paper places transport costs in a longitudinal, life-course oriented perspective. It argues that travel behaviour and the choice of residence may be considered two intertwined decision frameworks made by individuals/households that in turn can be understood within the broader context of mobility biographies. The interrelations between mobility biographies and transport costs are on multiple levels. Firstly, they refer to different types of cost, including user costs, costs for transport provision and external costs. Secondly, mobility biographies and, specifically, residential self-selection may be affected by transport (user) costs, while at the same time they work as input factors for transport costs on all cost levels. The paper outlines these thoughts and discusses the consequences for spatial planning and transport planning. It suggests a strong planning system in which guidelines for travel and residential choice are set by public planning organisations rather than by the market. This is likely to help spare future households increasing transport costs, and costs for transport provision and external costs will be reduced as well. Further, it argues for a shift away from the happiness debate and towards the notion of dignity in transport studies.
+Keywords: Transport costs; Residential self-selection; Life course; Travel behaviour; Happiness; Dignity
+
+Armando Cartenì, Vittorio Marzano, Ilaria Henke, Ennio Cascetta,
+A cognitive and participative decision-making model for transportation planning under different uncertainty levels,
+Transport Policy,
+Volume 116,
+2022,
+Pages 386-398,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.12.013.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21003668)
+Abstract: Decision-making processes related to transportation systems are often very complex, belonging to the class of “wicked problems” in social studies. The literature and the media abound in examples of transportation planning “failures” including decisions made, delayed or withdrawn without any traceable motivations, public opposition, public opposition, extra costs/implementation times and outright cancellation, wrong traffic/revenue forecasts. Planning failures stem from several causes, including technical errors in forecasting predictable effects, lack of consensus, new governance cycles and inability to recognize the intrinsic uncertainty affecting some key variables. The underlying assumption of this paper is that the quality of the decision-making process critically depends on how the process is structured and managed. The paper proposes a conceptual model to represent and organize transport planning as a cognitive decision-making process with strong involvement of different stakeholders in various stages, accounting for different levels of uncertainty and including short- and long-term decisions options. The result is a planning process that allows for changes in objectives, strategies and decisions during different stages of the process itself, as is usually the case when different governance and socio-economic cycles succeed over time. However, the process maintains a form of procedural consistency and is intended to counteract the “Penelope syndrome”, whereby decisions made under previous governance cycles are undone regardless of their merits and costs. The real-life implementation of the proposed model requires strong “political commitment” to an open and accountable decision-making process, a technical structure able to act as “process owner” coordinating technical and engagement activities, and a general societal attitude towards organized participation to public decision making. The proposed model was applied to the Regional Transportation Plan of Veneto in Italy where the above conditions applied. A number of lessons were learnt from that exercise: i) stakeholders’ engagement revealed an important potential to manage uncertainty and increase consensus; ii) flexibility and robustness with respect to medium–to–high uncertainty levels already recognized at the time of the plan (immediately before the COVID-19 crisis) were an appreciated feature of the plan; iii) separation between mature decisions and those needing further analysis was a success strategy, reducing political “decision costs” (from naysaying) by delaying decisions still recognizing underlying needs; iv) reduced decision time (a largely bi-partisan vote in less than one year).
+Keywords: Transportation planning; Public decision-making processes; Transport infrastructures and services; Bounded rationality; Public engagement; Project evaluation and assessment; Uncertainty levels; Penelope syndrome; Deep uncertainty; Post-COVID-19 new normal
+
+Geert te Boveldt, Koen Van Raemdonck, Cathy Macharis,
+A new railway tunnel under Brussels? Assessing political feasibility and desirability with competence-based multi criteria analysis,
+Transport Policy,
+Volume 66,
+2018,
+Pages 30-39,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.03.002.
+(https://www.sciencedirect.com/science/article/pii/S0967070X17300562)
+Abstract: Interjurisdictional infrastructure planning is a complex affair due to the multiplicity of actors representing the jurisdictions, sometimes at several institutional levels. Their priorities are likely to conflict, as the ratio between costs and benefits of infrastructure differs according to place and to scale. Yet, for evaluating strategic decisions, policy makers typically use methods that assess impacts from a single-actor viewpoint, providing little insight in the political feasibility and desirability of projects that cross institutional borders. This paper presents a novel evaluation and group decision-making framework: Competence-based Multi Criteria Analysis (COMCA). It provides a structure for applying Multi Criteria Decision Analysis-based methods in a multi-actor, multi-level context. The framework can be used to evaluate the desirability of project alternatives for each of the actors, whose support, individually or as a group, is deemed necessary. Doing so, COMCA helps mapping local and global interests, providing valuable insight and input into the interjurisdictional decision-making and negotiation process. The article describes how COMCA was applied in a study with the aim to assess solutions for the main bottleneck of the Belgian railway network. It was found that, in terms of desirability among stakeholders, certain little-studied alternatives potentially surpass the alternatives which for many years were regarded as the most plausible options by the key players. Based on experiences during the study, the article discusses various parameters for finding the equilibrium between methodical precision and applicability in a real-world decision-making context.
+Keywords: Multi criteria analysis; Project appraisal; Multi-level governance; Cross-border planning; Multiple stakeholders; Mega-projects
+
+Hui Bi, Aoyong Li, Mingzhuang Hua, He Zhu, Zhirui Ye,
+Examining the varying influences of built environment on bike-sharing commuting: Empirical evidence from Shanghai,
+Transport Policy,
+Volume 129,
+2022,
+Pages 51-65,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.10.004.
+(https://www.sciencedirect.com/science/article/pii/S0967070X2200289X)
+Abstract: Commute behaviors, as the primary part of urban mobility, remains largely underexplored, especially for bike-sharing users. Recent development in data availability open up new possibilities to delve into bike-sharing commuting over long-term periods on a large scale. This study proposes a methodological framework that enables a logical identification of bike-sharing commuting activities and a comprehensive examination of urban built environment effects on shaping commuting patterns. To this end, a series of data mining methods are developed in support of the identification of regular bike-sharing commuting, and the concepts of home-work balance and mobility trend are proposed to describe underlying commuting patterns. The XGBoost model and Necessary Condition Analysis (NCA) method are then adopted respectively to test the sufficiency and necessity of built environment on commuting patterns. The results confirm the massive existence of individual-level bike-sharing commuting activities and the pivotal role of bike-sharing in urban commuting. Also, the spatial distributions of home-work balance and mobility trend driven by job-housing separation show different clustering patterns. Besides, the synergy of sufficiency analysis and necessity analysis investigates the complex interplay of built environment-commuting patterns. This critical analysis of bike-sharing commute provides insights into sustainable transit planning and urban design.
+Keywords: Bike-sharing commute; Green mobility; Commuting patterns; Built environment; Sufficient condition and necessary condition; Policy
+
+Chunli Zhu, Jianping Wu, Mingyu Liu, Linyang Wang, Duowei Li, Anastasios Kouvelas,
+Recovery preparedness of global air transport influenced by COVID-19 pandemic: Policy intervention analysis,
+Transport Policy,
+Volume 106,
+2021,
+Pages 54-63,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.03.009.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21000718)
+Abstract: The outbreak of COVID-19 constitutes an unprecedented disruption globally, in which risk management framework is on top priority in many countries. Travel restriction and home/office quarantine are some frequently utilized non-pharmaceutical interventions, which bring the worst crisis of airline industry compared with other transport modes. Therefore, the post-recovery of global air transport is extremely important, which is full of uncertainty but rare to be studied. The explicit/implicit interacted factors generate difficulties in drawing insights into the complicated relationship and policy intervention assessment. In this paper, a Causal Bayesian Network (CBN) is utilized for the modelling of the post-recovery behaviour, in which parameters are synthesized from expert knowledge, open-source information and interviews from travellers. The tendency of public policy in reaction to COVID-19 is analyzed, whilst sensitivity analysis and forward/backward belief propagation analysis are conducted. Results show the feasibility and scalability of this model. On condition that no effective health intervention method (vaccine, medicine) will be available soon, it is predicted that nearly 120 days from May 22, 2020, would be spent for the number of commercial flights to recover back to 58.52%–60.39% on different interventions. This intervention analysis framework is of high potential in the decision making of recovery preparedness and risk management for building the new normal of global air transport.
+Keywords: Air transport; Post-recovery; Policy intervention; COVID-19; Causal Bayesian network (CBN)
+
+Mohammad Maghrour Zefreh, Muhammad Atiullah Saif, Domokos Esztergár-Kiss, Adam Torok,
+A data-driven decision support tool for public transport service analysis and provision,
+Transport Policy,
+Volume 135,
+2023,
+Pages 82-90,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.01.015.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23000215)
+Abstract: Public transport service (PTS) analysis and provision is an important and challenging issue for public transport agencies. The results of the PTS analysis help transport planners to identify the areas in need of PTS improvement. Furthermore, relevant policy actions need to be determined for service provision to reach the desired level of PTS improvement in the identified areas. Without an appropriate decision support tool, planners need to apply several blind trials to find a policy action which improves the PTS in the examined areas. This paper introduces a data-driven decision support tool for PTS analysis and provision. The proposed framework combines a potentially large number of PTS measures while taking the correlation among the investigated measures into account and develops high-dimensional supervised classification models that predict the PTS levels for different policy actions. With this approach, planners can identify and prioritize the areas in need of PTS improvement, determine what policy actions should be targeted to improve the PTS in the identified areas, and predict the PTS impacts of these policy actions in the examined areas. The application of the proposed framework is demonstrated in detail through a case study of Budapest, Hungary, which is followed by a hypothetical policy implementation. The results show that mostly outskirts are in need of PTS improvement. Furthermore, the underlying reasons behind the areas with poor overall PTS are studied to target the relevant policy actions that improve the PTS in the identified areas. The PTS impacts of the targeted policy actions are studied by using the developed high-dimensional supervised classification models.
+Keywords: Public transport service; Policy action; High-dimensional supervised classification; Data-driven; Jenks algorithm; Mahalanobis TOPSIS
+
+Sam McLeod, Jake H.M. Schapper, Carey Curtis, Giles Graham,
+Conceptualizing freight generation for transport and land use planning: A review and synthesis of the literature,
+Transport Policy,
+Volume 74,
+2019,
+Pages 24-34,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.11.007.
+(https://www.sciencedirect.com/science/article/pii/S0967070X17306947)
+Abstract: Freight generation and movement patterns are not well understood by planners and policy-makers tasked with making complex strategic land use and transport planning decisions. In the absence of detailed planning evidence, they may rely on scant or anecdotal data, extrapolated and presented through complex quantitative models. Unfortunately, predictive model outputs can fail to accurately match observed outcomes, and such models cannot predict complex long-term phenomena which may transformatively disrupt freight production and movement patterns. Through a review of the literature, we apply Porter's Diamond Model of Competitive Advantage (Porter 1990) to develop a novel conceptual framework for freight generation. We illustrate how emerging themes and new evidence of relevant economic, environmental, social, and governmental factors can be meaningfully structured within this conceptual framework. By compiling recent evidence of spatio-temporal complexity from the literature, we highlight the utility of such a framework in assisting planners and decision-makers to incorporate a wider set of freight generation factors – particularly demand factors, land use relocation effects, shifting firm strategies, and emerging transport technologies – in the practices of understanding, modeling, planning, and managing urban freight. Application of the framework should assist in ensuring that significant factors and phenomena are not ignored in critical planning decisions, encourage the input of a more diverse set of planning expertise at the policy-making table, and throw renewed emphasis on potential qualitative and mixed-methods freight case study research.
+Keywords: Freight transport; Freight generation; Freight models; Freight policy; Land use planning; Diamond model
+
+Robert Hrelja, Jamil Khan, Fredrik Pettersson,
+How to create efficient public transport systems? A systematic review of critical problems and approaches for addressing the problems,
+Transport Policy,
+Volume 98,
+2020,
+Pages 186-196,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.10.012.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19304950)
+Abstract: Creating efficient public transport systems that attract users is a challenging task in contexts where the control of public transport is divided between various actors. Recent research on public transport has therefore seen increasing focus on issues like coordination, collaboration and steering in complex governance settings. However, more is known about what needs to be done than how to implement the necessary changes. This paper presents a systematic literature review with a focus on developing the understanding on how to improve the conditions for public transport. The reviewed articles are analysed for increasing the understanding of the critical challenges in the planning and implementation of measures to increase public transport travel; the working practices for dealing with problems described in the literature; and the advantages and disadvantages of different working practices. Based on the analysis an analytical framework is developed that can be used to study and evaluate working practices for managing critical challenges. The framework consists of three interconnected factors (i) actors, (ii) institutions (laws and rules that govern the interaction of the actors), and (iii) work processes (phases in the interaction between the actors). Drawing on the results of the systematic review a number of key issues for establishing working practices for dealing with the challenges are emphasized for each of the factors.
+Keywords: Public transport; Governance; Policy; Collaboration; Planning; Decision making
+
+Julia Kinigadner, Benjamin Büttner,
+How accessibility instruments contribute to a low carbon mobility transition: Lessons from planning practice in the Munich region,
+Transport Policy,
+Volume 111,
+2021,
+Pages 157-167,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.07.019.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21002286)
+Abstract: The accessibility concept provides a suitable framework for the achievement of sustainable land use and transport systems. Environmental and climate concerns have gained particular relevance among sustainability goals in recent years, thus reshaping political agendas all over the world. Against this background, this paper explores the practical relevance of accessibility instruments for low carbon mobility planning. A theoretical framework on usefulness is developed, which outlines potential application purposes related to identifying needs for interventions in the land use and transport system, assessing the impacts of potential solutions, as well as communicating between planning sectors and stakeholders. Three real-world planning issues in the Munich region serve to test the hypothetical usefulness of accessibility instruments for low carbon mobility planning in empirical applications. Practitioners were involved at various stages throughout the process in order to capture their perspectives on practical relevance. Both the identified planning issues and the types of accessibility implementations were diverse in nature, showing that accessibility analysis is applicable to a variety of tasks connected to the aim of reducing transport-related emissions. Earlier findings about the practical relevance of accessibility instruments were confirmed in this context, in particular the importance of communicative outputs. While more research in other spatial contexts is clearly needed, we conclude that accessibility instruments can contribute to a low carbon transition by enabling practitioners to plan for low carbon mobility options and communicate the benefits of these options. However, the implementation of accessibility instruments might be hampered by emerging barriers, such as the need to quantify emissions and emission savings, the desire to consider qualitative aspects in addition to quantitative indicators, and the lack of accessibility standards and reference values.
+Keywords: Climate change; CO2 emissions; Accessibility instruments; Low carbon policy
+
+Marco te Brömmelstroet, Morten Skou Nicolaisen, Benjamin Büttner, Antonio Ferreira,
+Experiences with transportation models: An international survey of planning practices,
+Transport Policy,
+Volume 58,
+2017,
+Pages 10-18,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.04.007.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16302888)
+Abstract: Transport planning practice is experiencing rapid transitions. This shifting professional environment is prompting lively and sometimes bitter debates about how transportation models should be used. While these models and their outputs play an increasingly more important function in transport-related decision-making processes, growing concerns emerge about their limitations, assumptions, biases, and usability. This paper addresses the question of how different professionals involved in transportation planning perceive and experience these tensions. For that purpose, we developed an online survey which was completed by 229 European transport planning practitioners, primarily working in the Netherlands, Denmark and Germany. Our findings support the following key conclusions. First, and contrary to popular notions on the matter, practitioners are relatively satisfied with the models they use. Second, most respondents are confident that they understand the assumptions and uncertainties associated with transport models, but that other important stakeholders do not. However, third, the larger the distance that respondents have to hands-on working experience with transportation models, the lower is their trust on model outputs. Respondents who are not directly involved in the operation of the models a) report more negative experiences associated with model use in decision-making processes and b) identify more usability barriers. The overall picture revealed a lack of trust amongst transport planning professionals, which is a problem needing to be addressed. We propose bringing models closer to those who use their outputs as a constructive solution to this trust deficit.
+Keywords: Transportation models; Planning practice; Survey; Usability; Experiences
+
+Geoff Vigar,
+The four knowledges of transport planning: Enacting a more communicative, trans-disciplinary policy and decision-making,
+Transport Policy,
+Volume 58,
+2017,
+Pages 39-45,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.04.013.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16306606)
+Abstract: There is widespread criticism of much transport planning practice for relying on particular, ‘technical’, knowledge forms characterized by instrumental, means-end rationality. At the same time politicians are criticized for taking ‘political’ decisions with not enough regard for the outcomes of such technical work. Increasingly attempts to capture the embodied knowledge and values of citizens are also brought into this contested terrain. But which knowledge forms should be significant in making policy and taking decisions; and how might they be brought together in political decision-making which is itself subject to its own rationality? This paper argues that the variety of knowledge forms in everyday transport planning processes should be more transparently articulated. Subsequent reflexion can help enhance the quality of transport planning processes, while such transparency bolsters the democratic legitimacy of the outputs of such processes. Such a more explicitly communicative, trans-disciplinary mode of governance would help to challenge the power of political rationality. This conclusion has implications for how transport planning as a discipline is enacted.
+Keywords: Transport planning; Deliberation, knowledge forms; Process design; Epistemology, trans-disciplinarity
+
+John Stanley,
+Opportunity equity in strategic urban land use transport planning: Directions in London and Vancouver,
+Transport Policy,
+Volume 136,
+2023,
+Pages 137-146,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.03.019.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23000847)
+
+Ho-Yin Chan, Yingying Xu, Anthony Chen, Jiangping Zhou,
+Choice and equity: A critical analysis of multi-modal public transport services,
+Transport Policy,
+Volume 140,
+2023,
+Pages 114-127,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.06.013.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23001658)
+Abstract: Equity and justice have long been central in transport policy. The emphasise on the importance of individuals' access to social and economic opportunities stresses the link between accessibility and concepts like agency and freedom of choice. It calls for a nuanced and comprehensive understanding of accessibility that considers specific contextual factors that limit people's transport choices, such as the design of public transport networks and services, government interventions, and competition between public transport companies. To promote people's potential mobility and freedom of choice, it is crucial to initially assess the spatial distribution of transport options. In this article, we synthesise the findings from existing scholarship on transport choice, reinforcing the need for (re)considering choice in transport equity. We propose a metric to evaluate the availability of transport choices by considering the trade-off between time and money. By analysing household survey responses on transport choices and transit service datasets, we investigate the spatial disparities in the availability of transport choices within a multimodal public transportation system in Hong Kong and explore how adjusting unappealing choices can potentially enhance transport equity.
+Keywords: Transport equity; Choice set; Accessibility; Multimodal public transport system; Hong Kong
+
+Miguel L. Navarro-Ligero, Luis Miguel Valenzuela-Montes,
+Scenario archetypes in urban transport planning: Insights from the implementation of LRT systems,
+Transport Policy,
+Volume 118,
+2022,
+Pages 152-164,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.02.002.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22000415)
+Abstract: The adaptation of transport concepts to changing urban conditions has rendered continuous transformation in the contexts, rationalities and type of decisions involved in urban transport planning. Foresight approaches in future studies offer flexible tools to capture transformations at such different levels. In this work, we explore pathways for the integration of future-scenario methods in transport planning, using the implementation of the Light Rail Transit (LRT) system in Granada (Spain) as a case in point. We applied the concept of “scenario archetype” to review both process-oriented and product-oriented elements in existing planning documents, assisted by a survey to local planning actors about the future of Granada's LRT. As a result, we suggest two main scenario archetypes, robust and flexible, in describing potential relationships between public transport projects and planning processes. Those archetypes entail different planning and communication environments, and therefore, integration pathways for using scenarios in envisioning the future of urban transport.
+Keywords: Foresight; Future scenarios; Light rail transit; Urban transport; Communicative planning
+
+Aseem Kinra, Samaneh Beheshti-Kashi, Rasmus Buch, Thomas Alexander Sick Nielsen, Francisco Pereira,
+Examining the potential of textual big data analytics for public policy decision-making: A case study with driverless cars in Denmark,
+Transport Policy,
+Volume 98,
+2020,
+Pages 68-78,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.05.026.
+(https://www.sciencedirect.com/science/article/pii/S0967070X20303590)
+Abstract: The simultaneous growth of textual data and the advancements within Text Analytics enables organisations to exploit this kind of unstructured data, and tap into previously hidden knowledge. However, the utilisation of this valuable resource is still insufficiently unveiled in terms of transport policy decision-making. This research aims to further examine the potential of textual big data analytics in transportation through a real-life case study. The case study, framed together with the Danish Road Directorate or Vejdirektoratet, was designed to assess public opinion towards the adoption of driverless cars in Denmark. Traditionally, the opinion of the public has often been captured by means of surveys for the problem owner. Our study provides demonstrations in which opinion towards the adoption of driverless cars is examined through the analysis of newspaper articles and tweets using topic modelling, document classification, and sentiment analysis. In this way, the research attends to the collective as well as individualised characteristics of public opinion. The analyses establish that Text Analytics may be used as a complement to surveys, in order to extract additional knowledge which may not be captured through the use of surveys. In this regard, the Danish Road Directorate could find the usefulness while understanding the barriers in the results generated from our study, for supplementing their future data collection strategies. However there are also some methodological limitations that need to be addressed before a broader adoption of textual big data analytics for transport policy decision-making may take place.
+Keywords: Autonomous vehicles (AVs); Driverless cars; Content analysis; Text analytics; Topic modelling; Big data; Machine learning; Transport policy
+
+Michiel de Bok, Lóránt Tavasszy,  Sebastiaan Thoen,
+Application of an empirical multi-agent model for urban goods transport to analyze impacts of zero emission zones in The Netherlands,
+Transport Policy,
+Volume 124,
+2022,
+Pages 119-127,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.07.010.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19307383)
+Abstract: Reducing emissions caused by urban freight transportation is an increasingly important policy objective for transportation planners around the world. New and innovative ways of data collection provide new possibilities to analyze these issues. In this paper we present MASS-GT, a new multi-agent simulation system for urban goods transport. The empirical basis is provided by an exceptionally large dataset of truck trip travel diaries for The Netherlands that was collected from transportation management systems using an automated data collection interface. The dataset is very dense and includes information on vehicles, routes, and shipments carried. The strategic part of the model simulates the formation of individual shipments based on logistic processes at a strategic level, such as sourcing, distribution channel choice and shipment size choice. At tactical level disaggregate choices are simulated for tour formation, vehicle type- and time of day choice, based on observed distributions. The multi-agent approach allows to implement heterogeneous preferences and thus differentiated responses to new policies. We present an application of the model to study the impacts of urban consolidation centers (UCC) and zero emission zones. The freight transportation volumes transported to these UCC and their impact on logistic indicators are analyzed. Simulation results show that vehicle kilometers travelled within the wider region increase with the introduction of UCC, and at the same time the efficiency of deliveries increases as well. Thus the model allows to study trade-offs between regional and local systems that emerge from different behavioural responses to policies.
+Keywords: Urban freight transportation demand; Multi-agent models; Big data applications; Tour formation; Urban consolidation centers; Zero-emission zones; The Netherlands
+
+Eva Kassens-Noor,
+Transportation planning and policy in the pursuit of mega-events: Boston's 2024 Olympic bid,
+Transport Policy,
+Volume 74,
+2019,
+Pages 239-245,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.12.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18300763)
+Abstract: Improved transportation systems is a key argument boosters offer local residents as to why they should support mounting a bid for the Olympic Games. Opponents argue that transportation improvement can and should take place without the mega-event and that a bid instead deviates resources away from necessary transport projects. Transport policy makers need a practicable understanding of how to make decisions under grand opportunities like the Olympic Games. I advance the theory under grand opportunities using Boston's transport planning approach for its bid to host the 2024 Olympic Games as a case study. Through an ethnography in Boston's bidding committee, content analysis of internal planning documents circulated among staff, and in-depth interviews with participants in the transport planning process, I analyze the reasons and process by which Boston 2024's Olympic transport proposal changed over time. I find that decision-making over transport emulated many characteristics of crisis; it was complex, risky, and occurred under high uncertainty. Once the initial bid was published, Bostonians demanded decisions for subsequent bid versions become transparent. Consequently, transport planners were forced to reduce complexity, to incur higher planning costs, and to discard projects beneficial for Boston's long-term development. I find that grand opportunities for transport were squashed over the course of Boston's Olympic bid. I conclude that grand opportunities move along a spectrum of high-low complexity during the decision-making process and thus propose to analyze this process with what I term the coincidental opportunism approach.
+Keywords: Decision-making; Grand opportunities; Crisis; Olympic; Mega-event
+
+Yanxia Wang, Yisong Li, Yixiao Huang, Daqing Gong,
+Analyzing the impacts of logistics suburbanization on logistics service accessibility: Accessibility modeling approach for urban freight,
+Transport Policy,
+Volume 138,
+2023,
+Pages 25-44,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.05.001.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23001245)
+Abstract: Analysis of the accessibility impacts of logistics suburbanization is critical for logistics land-use planning practices. To understand these impacts, this paper conceptualizes logistics service accessibility from two perspectives in terms of urban logistics infrastructure networks (ULINs) and logistics land use stakeholders in the network, and proposes a novel quantitative approach for their measurement. We measure the service accessibility of ULINs via solving a bi-objective binary integer program which considers the facility spatial coverage and vehicle path planning. Further, cumulative-opportunity freight accessibility models are proposed to measure the service accessibility of logistics land use stakeholders while accounting for their different logistics demands. The proposed method is capable of measuring the spatiotemporal impacts of logistics suburbanization on the service accessibility of ULINs and the corresponding stakeholders. We use the real data of Beijing as a testbed and our results reveal that (1) there is considerable variation in the service accessibility of ULINs and logistics firms' service accessibility with respect to different logistics facility locations and (2) choosing logistics facilities' locations requires careful consideration of the differences in ULINs’ service accessibility to mitigate uneven service availability on the receiving side. The paper highlights the potential for freight accessibility in urban freight planning and provides effective quantitative evaluation approaches to support better practices in logistics land use and transport planning.
+Keywords: Logistics suburbanization; Facility location; Accessibility models; Freight planning
+
+Marijn Thomas van Geet, Sander Lenferink, Jos Arts, Wim Leendertse,
+Understanding the ongoing struggle for land use and transport integration: Institutional incongruence in the Dutch national planning process,
+Transport Policy,
+Volume 73,
+2019,
+Pages 84-100,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.11.001.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18303263)
+Abstract: Formal and informal institutions help shape processes of planning, as ‘rules of the game’. However, institutions do not always align. As a result of changes in strategy and operation, institutional incongruence can emerge as old and new institutions conflict or as actors perceive and apply institutions in a different manner. In this article, we aim to gain insight in the concept of institutional incongruence and the way it shapes transport planning policy and implementation. To this end, we analyse the role of institutional congruence in the case of land use transport integration (LUTI) in the Netherlands. Although LUTI creates opportunities for beneficial synergies and helps avoid unwanted consequences, such as project time and project cost overruns, examples of successful deployment remain scarce. Through an institutional analysis of the Dutch national Planning, Programming and Budgeting (PPB) System for road infrastructure, we assess the ways in which LUTI is enabled or obstructed by formal and informal institutions. The one-year research project involves a triangulation of literature research, policy analysis, 22 expert interviews, focus groups and workshops. The findings illustrate that strategy and operation each present distinct formal and informal institutional incongruence that negatively influence land-use transport integration. We conclude that institutional incongruence is several instances of institutional incongruence can be found throughout the Dutch national planning process. These are partly inevitable because institutional change occurs gradually to reflect developments in society and manifests itself in both formal and informal rules. Therefore we recommend that, in order to achieve LUTI, the full institutional configuration of formal and informal rules, at strategic and operational level should be analysed, redesigned and aligned.
+Keywords: Land use transport integration; Institutional incongruence; PPB system; Institutional analysis
+
+Anders Tønnesen, Julie Runde Krogstad, Petter Christiansen, Karolina Isaksson,
+National goals and tools to fulfil them: A study of opportunities and pitfalls in Norwegian metagovernance of urban mobility,
+Transport Policy,
+Volume 81,
+2019,
+Pages 35-44,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.05.018.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18306255)
+
+Cecília Silva, Luca Bertolini, Marco te Brömmelstroet, Dimitris Milakis, Enrica Papa,
+Accessibility instruments in planning practice: Bridging the implementation gap,
+Transport Policy,
+Volume 53,
+2017,
+Pages 135-145,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2016.09.006.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16306151)
+Abstract: Accessibility concepts are increasingly acknowledged as fundamental to understand cities and urban regions. Accordingly, accessibility instruments have been recognised as valuable support tools for land-use and transport planning. However, despite the relatively large number of instruments available in the literature, they are not widely used in planning practice. This paper aims to explore why accessibility instruments are not widely used in planning practice. To this end we focus our research on perceived user-friendliness and usefulness of accessibility instruments. First, we surveyed a number of instrument developers, providing an overview on the characteristics of accessibility instruments available and on developers’ perceptions of their user-friendliness in planning practice. Second, we brought together developers and planning practitioners in a number of local workshops across Europe and Australia, where participants were asked to use insights provided by accessibility instruments for the development of planning strategies. We found that most practitioners are convinced of the usefulness of accessibility instruments in planning practice, as they generate new and relevant insights for planners. Findings suggest that not only user-friendliness problems, but mainly organizational barriers and lack of institutionalization of accessibility instruments, are the main causes of the implementation gap. Thus user-friendliness improvement may provide limited contributions to the successful implementation of accessibility concepts in planning practice. In fact, there seems to be more to gain from active and continued engagement of instrument developers with planning practitioners and from the institutionalization of accessibility planning.
+Keywords: Planning Support Systems; Implementation gap; Accessibility Instruments
+
+Shuli Luo, Sylvia Y. He,
+Understanding gender difference in perceptions toward transit services across space and time: A social media mining approach,
+Transport Policy,
+Volume 111,
+2021,
+Pages 63-73,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.07.018.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21002195)
+Abstract: Location-based social media data can offer useful insights on the spatial and temporal dynamics of public attitudes. In this study, we aim to investigate the gendered attitudes toward transit services in China, utilizing the case of Shenzhen. We collected 44,257 Weibo microblogs, a major source of social media data in China, and applied a series of text mining and visualization techniques to examine the gender differences among our focused themes. The microblogs reveal a distinct gender gap in terms of quantity, as nearly 74% are posted by women. While women tend to be more concerned about the comfort of transit environment (e.g., temperature, crowdedness, and safety, especially at night), men tend to be more interested in transit systems’ e-payment services and reporting traffic incidents. Overall, this study presents a methodological framework and empirical case study about how we can utilize certain social media mining techniques to investigate gendered, subjective travel experiences, providing researchers and practitioners with an innovative way to gather customer service feedback and build more inclusive service systems.
+Keywords: Gender; Social media; Transit service; Perception; Inclusive urban planning; Data mining
+
+Sara Ezquerro Eguizábal, José Luis Moura Berodia, Ángel Ibeas Portilla, Juan Benavente Ponce,
+Optimization model for school transportation design based on economic and social efficiency,
+Transport Policy,
+Volume 67,
+2018,
+Pages 93-101,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.01.015.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16304498)
+Abstract: The purpose of this paper is to design a model enabling recommendation for the new school transport planning proposals to achieve greater operational efficiency. It is a multi-objective optimization problem which includes minimization of the bus costs and total travel time for all students. The model is based on bus route planning according to changes in school starting times, so the buses can make more than one route. The methodology is based on the School Bus Routing Problem, so that routes from different schools within a given time window are connected, and within the problem constraints so system costs are minimized. The proposed model has been programmed for application in any generic case. This is a multi-objective problem, for which there are several possible solutions, depending on the weight assigned to each of the variables involved, economic versus social point of view. Therefore, the proposed model will be useful in school transport planning policy, given that it is a support model for making decisions, which seek efficiency in economic and social terms. The model has been applied in some schools located in an area of Cantabria (Spain), resulting in 71 possible optimal options, which minimize school transport cost between 2.7% and 35.1% regarding current school transport routes, with different school start time and minimum travel time for students.
+Keywords: School transport; Multi-objective optimization; Vehicle routing; Bus scheduling problem
+
+R.C.P. Wong, W.Y. Szeto, Linchuan Yang, Y.C. Li, S.C. Wong,
+Public transport policy measures for improving elderly mobility,
+Transport Policy,
+Volume 63,
+2018,
+Pages 73-79,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.12.015.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16306953)
+Abstract: Population aging is happening in most of the world's metropolitan cities, and the proportion of elderly adults is predicted to increase significantly in the coming decades. This rapid growth of elderly populations may lead to serious transport issues when their mobility is compromised by the unavailability of public transport services. Public transport concession fare schemes are commonly implemented in many cities to encourage the elderly's participation in social activities. However, these policies emphasize the role of money (i.e., travel fares) in determining willingness to travel. Other possible factors, such as walking distance to and from stops and stations, wait times for public transport services, and seat availability, have not been considered by transport operators and policy makers. In this study, we interviewed 613 elderly Hong Kong residents aged 60 or above regarding their travel decisions using designated modes of public transport to attend social activities in four hypothetical games. A total of 2452 observations were collected for model development. Binary logistic regression models were calibrated to determine which factors significantly influenced the elderly's travel decisions. Based on the model results, this paper suggests policy measures to strengthen public transport planning in Hong Kong with the goal of improving elderly mobility. The findings provide policy insights that can also be applied to other metropolitan cities with similar traffic conditions.
+Keywords: Public transport; Elderly mobility; Binary logistic regression model; Public transport concession fare schemes; Priority seats
+
+Geneviève Boisjoly, Ahmed M. El-Geneidy,
+How to get there? A critical assessment of accessibility objectives and indicators in metropolitan transportation plans,
+Transport Policy,
+Volume 55,
+2017,
+Pages 38-50,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2016.12.011.
+(https://www.sciencedirect.com/science/article/pii/S0967070X1630436X)
+Abstract: AbStract
+Accessibility, the ease of reaching destinations, is increasingly seen as a complimentary and in some cases alternative to the mobility oriented planning paradigm, as it allows capturing the complex interactions between land use and transportation systems while providing a social perspective on transportation planning. However, although accessibility has been extensively researched in the last decades, it is still largely marginalized in transportation planning practice. Accordingly, the aim of this study is to critically assess how accessibility is incorporated into metropolitan transportation plans and translated into performance indicators around the world, to ultimately derive policy recommendations. This research assesses 32 recent metropolitan transport plans from North America, Europe, Australia and Asia with respect to their goals, objectives and performance indicators. The results suggest that there is a trend toward a greater integration of accessibility objectives in transport plans, yet few plans have accessibility-based indicators that can guide their decision-making processes. Our findings show that in order to foster accessibility-based approaches to transportation planning, plans need to have clearly defined accessibility goals with a distinction between accessibility and mobility. Furthermore, multi-criteria analysis approaches including accessibility indicators need to guide the decision-making process. This study contributes to a greater understanding of the challenges and successes associated with implementing accessibility in transport planning.
+Keywords: Access to destinations; Performance indicators; Sustainable transportation; Paradigm shift
+
+Meredith Glaser, Kevin J. Krizek,
+Can street-focused emergency response measures trigger a transition to new transport systems? Exploring evidence and lessons from 55 US cities,
+Transport Policy,
+Volume 103,
+2021,
+Pages 146-155,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.01.015.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21000214)
+Abstract: Transport planning and policy is increasingly being called to action in ways that differ from practices of yesteryear. Varied segments of society are increasingly looking to city streets—the workhorse of a city's transport system—as places to enact change. Namely, to change their character away from the type of streets pervasive in auto-oriented urban environments. Acutely experienced during the disruption of the COVID-19 pandemic, emergency response measures from many cities across the world abruptly altered the nature and purpose of street space. These “street experiments” fueled an opportunity, in part, to explore a transition to practices prioritizing forms of sustainable mobility such as walking and bicycling. This research inventories street-focused emergency response measures from the 55 largest cities in the US. We devise a rubric to systematically assess and locate characteristics of these measures that enable a transition. Results show that five “innovator” and several “early adopter” cities are using COVID conditions to test new forms of streets and in some cases, street networks. These cities excelled in conveying a vision for alternative future, articulating implementation pathways, leveraging political capacity, and circulating information. After six months, half of the cities continue their efforts, including only six which have expanded. The few showing continued strength demonstrate endeavors to evaluate the experiments, validate their feasibility, and embed the experiments into existing sustainability policy. These components, when leveraged together, could seed innovative break-throughs in how city streets are used, designed, and standardized. The paper establishes baseline evidence on which future research efforts can build and provides empirical evidence on early stages of the experimentation and transition processes of urban mobility systems.
+Keywords: City streets; Transition experiments; Policy learning; Urban mobility; Sustainable transportation
+
+M.D. Yap, S. Nijënstein, N. van Oort,
+Improving predictions of public transport usage during disturbances based on smart card data,
+Transport Policy,
+Volume 61,
+2018,
+Pages 84-95,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.10.010.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16307648)
+Abstract: The availability of smart card data from public transport travelling the last decades allows analyzing current and predicting future public transport usage. Public transport models are commonly applied to predict ridership due to structural network changes, using a calibrated parameter set. Predicting the impact of planned disturbances, like temporary track closures, on public transport ridership is however an unexplored area. In the Netherlands, this area becomes increasingly important, given the many track closures operators are confronted with the last and upcoming years. We investigated the passenger impact of four planned disturbances on the public transport network of The Hague, the Netherlands, by comparing predicted and realized public transport ridership using smart card data. A three-step search procedure is applied to find a parameter set resulting in higher prediction accuracy. We found that in-vehicle time in rail-replacing bus services is perceived ≈1.1 times more negatively compared to in-vehicle time perception in the initial tram line. Waiting time for temporary rail-replacement bus services is found to be perceived ≈1.3 times higher, compared to waiting time perception for regular tram and bus services. Besides, passengers do not seem to perceive the theoretical benefit of the usually higher frequency of rail-replacement bus services compared to the frequency of the replaced tram line. For the different case studies, the new parameter set results in 3% up to 13% higher prediction accuracy compared to the default parameter set. It supports public transport operators to better predict the required supply of rail-replacement services and to predict the impact on their revenues.
+Keywords: Disturbance; Passenger; Prediction; Public transport; Smart card
+
+Silvio Nocera, Giuseppe Pungillo, Francesco Bruzzone,
+How to evaluate and plan the freight-passengers first-last mile,
+Transport Policy,
+Volume 113,
+2021,
+Pages 56-66,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.01.007.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19306584)
+Abstract: “First-last mile” (FLM) is an informal composed-word, widely used to indicate the first and the last leg of each transport movement. In this paper, it is defined as a complex system characterized by three interconnected macro factors that determine the success of a transport planning system. This is a very challenging part of the transport system from a planning perspective because of the critical issues that make it not much reliable and cost-effective. This paper capitalizes on the experiences gained in different implementations/studies and provides a theoretical framework for a good assessment and planning of the first-last mile. It stems from the recognition that the literature proposes different solutions and methods, ranging from the promotion of green transport to the use of ITS technologies. For this reason, this paper aims at elaborating some guidelines on how to tackle the problem in different territorial contexts, trying to be a help to the planners to reduce the negative consequences of mobility. Five main phases are identified here: 1) First-last mile identification; 2) Schematization of the problem and cost analysis; 3) Definition of the stakeholder involvement in the process; 4) Identification of the critical aspects of the process; 5) Identification of the best strategies to reduce costs. For each phase, the indicators to be taken into account for a correct transport planning are discussed, as a first step for stakeholders and policy-makers for making themselves aware of the significant potential of this issue.
+Keywords: Transport planning; First-last mile transport; First-last mile problem
+
+Toon Zijlstra, Anne Durand, Sascha Hoogendoorn-Lanser, Lucas Harms,
+Early adopters of Mobility-as-a-Service in the Netherlands,
+Transport Policy,
+Volume 97,
+2020,
+Pages 197-209,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.07.019.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19309059)
+Abstract: The concept of Mobility-as-a-Service (MaaS) is rapidly gaining momentum. Parties involved are eager to learn more about its potential uptake, effects on travel behaviour, and users. We focus on the latter, as we attempt to reveal the profile of groups within the Dutch population that have a relatively high likelihood of adopting MaaS in the near future, apart from the actual supply side. MaaS is a transport concept integrating existing and new mobility services on a digital platform, providing customised door-to-door transportation options. Based on common denominators of MaaS as found in the literature, we have established five indicators to identify early adopters: innovativeness, being tech-savvy, needing travel information, having a multimodal mindset, and wanting freedom of choice. These five indicators are the building blocks of our Latent Demand for MaaS Index (LDMI), and were constructed using 26 statements and questions from a special survey conducted in 2018 among participants of the Netherlands Mobility Panel (MPN). The features derived from the MPN serve as independent variables in a regression analysis of the indicators used to ascertain the profile of early adopters. The results of our model indicate that early adopters are likely to be highly mobile, have a high socio-economic status, high levels of education and high personal incomes. Young people are more eager to adopt MaaS than older adults. Early adopters are healthy, active and frequent users of trains and planes. The characteristics of MaaS's early adopters overlap in numerous ways with those of innovative mobility services users and with the general characteristics of early adopters as found in innovation studies.
+Keywords: Mobility-as-a-Service; Early adopters; Diffusion of innovations; Multimodal travel; Lasso regression
+
+Danique Ton, Dorine Duives,
+Understanding long-term changes in commuter mode use of a pilot featuring free e-bike trials,
+Transport Policy,
+Volume 105,
+2021,
+Pages 134-144,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.03.010.
+(https://www.sciencedirect.com/science/article/pii/S0967070X2100072X)
+Abstract: Globally, the need for more sustainable modes of transport is rising. One of the main contenders of the car is the electrical bike (e-bike). To promote the use of e-bikes, pilots are being organised worldwide (e.g. in the USA, Norway, and the Netherlands). Studies have shown that providing a free e-bike to people for a limited period of time changes their mode choice behaviour during the pilot period. Only few studies have also investigated the long-term effects of these free e-bike trial periods, which show increase in e-bike use in general. However, these studies have failed to investigate why some participants of the trials change behaviour on the long-term, whereas others continued their former behaviour. This study aims to bridge this gap. A pilot with e-bikes was organised at Delft University of Technology, The Netherlands, with the goal of reducing car use for commuter trips towards the university. Data was collected at various moments during and after the trial period to evaluate the long-term changes in commuting behaviour and to identify potential reasons for these changes. A total of 82 participants are included in this study. Overall, car use for commuting decreased from 88% before the pilot to 63% three months after the pilot. E-bike use went up from 2% to 18% in the same time period. A binary logistic regression model shows that the most important variables to explain the decrease in car use are 1) purchase of an e-bike, 2) the participant's perception regarding e-bike safety, and 3) the aim of the participant to use the pilot to change their current behaviour. Besides that, the most important predictor of increase in e-bike use is the purchase of an e-bike. Furthermore, participants identify the investment costs of an e-bike as the strongest reason for not purchasing an e-bike and, thus, not changing their commuting behaviour. Future pilot programs could consider the potential of incrementally purchasing an e-bike over a longer period of time, instead of at once, to increase e-bike adoption rate.
+Keywords: Commuter mode use; Pilot; E-bike; Car; Long-term change
+
+Robin Lovelace, John Parkin, Tom Cohen,
+Open access transport models: A leverage point in sustainable transport planning,
+Transport Policy,
+Volume 97,
+2020,
+Pages 47-54,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.06.015.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19302781)
+Abstract: A large and growing body of evidence suggests fundamental changes are needed in transport systems, to tackle issues such as air pollution, physical inactivity and climate change. Transport models can play a major role in tackling these issues through the transport planning process, but they have historically been focussed on motorised modes (especially cars) and available only to professional transport planners working within the existing paradigm. Building on the principles of open access software, first developed in the context of geographic information systems, this paper develops and discusses the concept of open access transport models, which we define as models that are both developed using open source software and are available to be used by the public without the need for specialist training or the purchase of software licences. We explore the future potential of open access transport models to support the transition away from fossil fuels in the transport sector. We do this with reference to the literature on the use of tools in the planning process, and by exploring an example that is already in use: the ‘Propensity to Cycle Tool’. We conclude that open access transport models can be a leverage point in the planning process due to their ability to provide robust, transparent and actionable evidence that is available to a range of stakeholders, not just professional transport planners. Open access transport models represent a disruptive technology deserving further research and development, by planners, researchers and citizen scientists, including open source software developers and advocacy groups but, in order to fulfil their potential, they will require both financial and policy support from government bodies.
+Keywords: Demand modelling; Transport planning; Open access software; Open access data; Accessible models; Open access models; Sustainable transport; Cycling
+
+Tim Ryley, Stefan Baumeister, Liese Coulter,
+Climate change influences on aviation: A literature review,
+Transport Policy,
+Volume 92,
+2020,
+Pages 55-64,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.04.010.
+(https://www.sciencedirect.com/science/article/pii/S0967070X20302870)
+Abstract: While the aviation sector has long been referenced as contributing to the causes of climate change, the need for aviation to adapt to the consequences of climate change has not been as well researched or considered. The paper is a systematic quantitative literature review on climate change and aviation, which aims to explicate significant issues affecting aviation in a changing climate and to identify the aviation industry responses on climate change and adaptation. There are 46 references involved in the detailed assessment, selected according to variables such as methodology, paper outcomes and industry stakeholder. This emergent aviation and climate change adaptation literature could be broadened to cover more disciplines and approaches, an increased range of aviation stakeholders and go further beyond the larger airport case studies in developed countries. Further practical and policy developments are needed, particularly surrounding adaptation planning in aviation and the social justice implications of associated policies.
+Keywords: Climate change; Adaptation; Aviation industry; Literature review
+
+Mengqiu Cao, Robin Hickman,
+Understanding travel and differential capabilities and functionings in Beijing,
+Transport Policy,
+Volume 83,
+2019,
+Pages 46-56,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.08.006.
+(https://www.sciencedirect.com/science/article/pii/S0967070X1830026X)
+Abstract: The social impacts of transport systems and new transport infrastructure have often been overlooked and undervalued, partly because the relationship between transport and social equity is indirect and difficult to quantify. Researchers have usefully investigated the relationship between transport and social exclusion, focusing on aspects such as access to opportunities and activities by different population cohorts such as income, class, age, ethnicity and gender. The analysis has focused on addressing the imbalance in the distributional effects of transport provision and accessibility planning has often been a central tool in analysis. This paper seeks to build on the aforementioned research, employing Amartya Sen's Capabilities Approach as a theoretical framework to explore how an individual's capabilities and functionings differ in relation to transport. Beijing is used as a case study, with analysis from three stations on the Beijing subway line 1 and its extension to the Batong line, namely Guomao, Sihui and Tuqiao. Martha Nussbaum's Central Human Capabilities Approach is used to frame the analysis. The results show that functionings and capabilities differ according to an individual's socio-economic characteristics and geographical location, meaning that both the opportunities to participate in life and also the actual activities themselves differ. This is an important distinction that the Capabilities Approach offers, and it is useful to consider if the potential for achieving improved social equity is to be realised.
+Keywords: Transport; Social equity; Travel equity; The capabilities approach; Beijing
+
+Guenter Emberger, Paul Pfaffenbichler,
+A quantitative analysis of potential impacts of automated vehicles in Austria using a dynamic integrated land use and transport interaction model,
+Transport Policy,
+Volume 98,
+2020,
+Pages 57-67,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.06.014.
+(https://www.sciencedirect.com/science/article/pii/S0967070X20305187)
+Abstract: Objective
+Digitisation and automation are expected to change the transport system and settlement structures in a disruptive way. Due to new developments in sensor and communication technology different business models of automated vehicles (AV) - such as private AV, car-sharing-AV, ride-sharing-AV and public transport-AV – are likely to enter the transport market. Further, different penetration rates of AVs, extension of user groups (elderly and young, people without driving licenses etc.), different cost scenarios of AV veh-kms, parking regimes/fees, etc. will have significant impact on future transport demand. The objective of the work presented in this paper was to develop a simulation-based approach to analyse the potential impacts of different vehicle automation scenarios in Austria.
+Method
+A multitude of complex cause-effect-chains and feedback loops characterise the relationship between AV take up, travel demand and environmental effects. The method of System Dynamics (SD) is designed to deal with such complexities. As a first step the qualitative method of Causal Loop Diagrams (CLD) was used to identify all potential automation related factors influencing the attractiveness of car and public transport use. In a second step the identified factors were coded into an operational version of the Stock-Flow based land use and transport interaction model MARS (Metropolitan Activity Relocation Simulator). As a third step sensitivity tests and scenarios were defined and simulated. Finally the resulting quantitative impacts were assessed and discussed.
+Results
+In this paper we describe briefly how MARS was adapted to be able to simulate the effects of different AV-take up rates on the national level of Austria. Simulation results are presented for the scenario elements road capacity, remote parking, value of travel time, access for new user groups in the business models private car, car-sharing and ride-sharing and automation of the first and last mile in public transport. The results show that with a fleet share of 90% of private AVs in 2050, the nationwide changes in veh-kms travelled are between −2% (impact on road capacity) and +22 percent (new user groups in the case of AVs as private cars).
+Policy implications
+An uncontrolled market take-up of AVs into the transport system will very likely increase the dependency on motorized transport, veh-kms driven and related emissions. Compensating policies have to be implemented in parallel to avoid un-sustainable developments.
+
+Fatih Canitez,
+Transferring sustainable urban mobility policies: An institutional perspective,
+Transport Policy,
+Volume 90,
+2020,
+Pages 1-12,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.02.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18306656)
+Abstract: This study develops an institutional framework for the transfer of the sustainable urban mobility policies from developed to developing institutional settings. Drawing on new institutional economics approach, the study investigates the institutional structure of the urban mobility field with a view to propose a policy transfer framework. The framework is then used in transferring sustainable urban mobility policies from London to Istanbul. On its way to establish a more sustainable urban mobility system, the city of Istanbul, which is the economic capital of Turkey, grapples with many urban mobility problems such as rapid motorization, chronic traffic congestion, air and noise pollution and a fragmented governance structure. London's recent Mayor's Transport Strategy published in March, 2018 which sets out a comprehensive set of policies aiming towards a more sustainable urban mobility is used as a benchmark document for transferring policies to Istanbul. The policy transfer study, commissioned by the local transport authority of Istanbul, is undertaken by a team of experts, consultants and academics which include the author of this study as well. The transfer process is carried out by translating policies into the institutional structure of the policy borrowing city, namely Istanbul. The fragmentation in the policy and governance levels in Istanbul, acting as a major barrier for direct transfer, is addressed by the proposed institutional policy transfer framework. Overall, the study aims to open up new avenues for an institutionally-informed transport policy research. More specifically, the study provides novel conceptual tools for the analysis of the policy transfer studies involving disparate institutional settings.
+Keywords: Policy transfer; Sustainable urban mobility; Institutions; New institutional economics; Developing cities
+
+Dianchen Zhu, N.N. Sze, Zhongxiang Feng, Ho-Yin Chan,
+Waiting for signalized crossing or walking to footbridge/underpass? Examining the effect of weather using stated choice experiment with panel mixed random regret minimization approach,
+Transport Policy,
+Volume 138,
+2023,
+Pages 144-169,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.04.020.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23001233)
+Abstract: It is a challenging task for pedestrians to cross a road with multiple traffic lanes and busy traffic. Many footbridges and underpasses have been built in the urban area of metropolitan cities such as Hong Kong to resolve the problem of vehicle-pedestrian conflict. To maximize the utilization and benefit of the installation of such crossing facilities, it is crucial to understand the choice behaviour of pedestrians. Although many studies have examined pedestrian walking behaviour and preference towards crossing facilities, the influence of ratio of perceived values between waiting and walking time on the choice of crossing is not explored. In addition, individual perception and choice may vary with the environmental conditions, which has not been fully accounted for in existing studies. Exposure to extremely hot weather, crowded walkways, and roadside traffic emissions are not favoured. In this study, a stated choice experiment is developed to examine the relationship between possible influencing factors and the crossing choices of pedestrians in Hong Kong. In addition, a regret-based panel mixed multinomial logit approach is adopted to model the choice, accounting for the effects of unobserved heterogeneity and panel data. The results indicate that the choice decision of pedestrians is more sensitive to an increase in waiting time at signalized crossings than to an increase in walking time to access footbridges and underpasses. These findings shed light on future urban and transport planning strategies to improve the walking environment and promote walkability.
+Keywords: Pedestrian crossing facilities; Perceived value of time; Urban environment; Stated choice experiment; Panel mixed multinomial logit model; Regret minimization approach
+
+Md Asif Hasan Anik, Soumik Nafis Sadeek, Moinul Hossain, Shafquat Kabir,
+A framework for involving the young generation in transportation planning using social media and crowd sourcing,
+Transport Policy,
+Volume 97,
+2020,
+Pages 1-18,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.06.006.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19301106)
+Abstract: To ensure that decisions are made reflecting public needs, public participation has become an indispensable part of the modern transportation planning process. However, it has been a challenging task to obtain inputs from the youth for planning purposes through conventional public participation approaches, such as, focus group discussions. This research employs social media and crowdsourcing to engage with the youths of Dhaka city, Bangladesh, to understand their vision of a sustainable transportation system and pathways to achieve it. Then it compares the findings with those obtained from the experts involved in transportation planning. At first, text mining was applied to synthesize useful information from the topics and comments of the posts made by members in a Facebook discussion group consisting of 3000 members which were maintained for almost 1.5 years. Based on the findings of text mining, an online questionnaire survey was conducted, involving both the transportation experts and the youths to ascertain and prioritize various aspects of sustainable modes of transport, e.g., walking, cycling, and public transport through Analytic Hierarchy Process (AHP). Findings suggest similarities as well as variations between the youths and the experts in prioritizing different components of the transport system. For instance, while the experts prioritized adequate walking facilities the most, the young generation emphasized the most on proper public transport environment. Both the groups highly prioritized women-only buses, separate crossing facilities for cyclists, evening lights on sidewalks, however, they exhibited different levels of priority on the introduction of air-conditioned buses, road signs, toilets and dustbins near the sidewalk, etc. Finally, the study proposes ways to create a shared vision of a sustainable transportation system by considering both the conforming and divergent views of the experts and the young generation.
+Keywords: Social media; Crowd sourcing; Public participation; Sustainable transportation; Text mining; Analytic hierarchy process (AHP)
+
+Mirko Goletz, Sonja Haustein, Christina Wolking, Alain L’Hostis,
+Intermodality in European metropolises: The current state of the art, and the results of an expert survey covering Berlin, Copenhagen, Hamburg and Paris,
+Transport Policy,
+Volume 94,
+2020,
+Pages 109-122,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.04.011.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19302951)
+Abstract: Intermodality, defined as using more than one mode for a single trip, is frequently discussed as a measure to help achieve more sustainable mobility in Europe, especially in cities. However, intermodality presents challenges for transport providers, and has its drawbacks for users, who prefer connections that do not require changing between transport modes. As a basis for forming recommendations to facilitate intermodality, we first analysed the status quo of intermodal mobility in four European metropolises: Berlin, Copenhagen, Hamburg and Paris. Subsequently, we conducted an expert survey in which we asked experts in the four cities about the future share and development of intermodality, its future relevance and potential of intermodality in transport planning, and how various factors on both the demand and supply side influence the level of intermodal activity. According to our findings, most experts foresee an increase in the share of intermodal trips. They also believe the relevance of including intermodality considerations in transport planning to be increasing. The increase of intermodal mobility will be driven by factors such as reduced vehicle ownership, but also by new mobility patterns. The latter can be explained by social factors such as urbanisation or digitalisation that affect the lifestyle of cities’ inhabitants in future.
+Keywords: Urban mobility; Intermodality; Travel behaviour; Transport policies
+
+Stefano Carrese, Ernesto Cipriani, Chiara Colombaroni, Umberto Crisalli, Gaetano Fusco, Andrea Gemma, Natalia Isaenko, Livia Mannini, Marco Petrelli, Vito Busillo, Stefano Saracchi,
+Analysis and monitoring of post-COVID mobility demand in Rome resulting from the adoption of sustainable mobility measures,
+Transport Policy,
+Volume 111,
+2021,
+Pages 197-215,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.07.017.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21002183)
+Abstract: The paper describes research activities of monitoring, modeling, and planning of people mobility in Rome during the Covid-19 epidemic period from March to June 2020. The results of data collection for different transport modes (walking, bicycle, car, and transit) are presented and analyzed. A specific focus is provided for the subway mass transit, where 1 m interpersonal distancing is required to prevent the risks for Covid-19 contagion together with the use of masks and gloves. A transport system model has been calibrated on the data collected during the lockdown period –when people's behavior significantly changed because of smart-working adoption and contagion fear– and was applied to predict future mobility scenarios under different assumptions on economic activities restarting. Based on the estimations of passenger loading, a timing policy that differentiates the opening hours of the shops depending on their commercial category was implemented, and an additional bus transit service was introduced to avoid incompatible loads of the subway lines with the required interpersonal distancing.
+Keywords: Covid-19 pandemic; Traffic data analytics; Public transport access control; Social distancing
+
+Tom Rye, Robert Hrelja, Jason Monios, Clare McTigue,
+Partnership or franchising to improve bus services in two major English urban regions? An institutional analysis,
+Transport Policy,
+Volume 114,
+2021,
+Pages 59-67,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.09.001.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21002584)
+Abstract: This paper analyses two differing approaches to the improvement of local bus services, using the analytical lens of formal and informal institutions. Both formal and informal institutions govern the behaviour of authorities and operators, but they do it in different ways and they have advantages and disadvantages. In so doing we seek to understand both how the informal institutional approach (e.g. voluntary partnership working) can be used effectively, but also to assess its limits; and to understand why a formal institutional approach (e.g. franchising), in spite of its strong underlying basis in law, may nonetheless not always function. Through doing so, this paper contributes to the current understanding of how to handle the unintended consequences of a deregulated market through the different (formal and informal) ways available.
+Keywords: Transport policy; Bus; Franchise; Partnership; Deregulation; UK; Great britain
+
+Xiao Fu, Yufan Zuo, Shanqi Zhang, Zhiyuan Liu,
+Measuring joint space-time accessibility in transit network under travel time uncertainty,
+Transport Policy,
+Volume 116,
+2022,
+Pages 355-368,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.12.018.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21003711)
+Abstract: In densely populated areas, joint activity participation such as shopping and eating outside represents a substantial portion of individuals' daily activity-travel patterns. Individuals have several considerations in making joint activity choice behaviour such as space-time coordination, activity start time, activity location and joint activity duration. In a congested transit network, the travel time uncertainty significantly affects individuals' activity and travel choice behaviour. To conduct some important joint activities, individuals normally have high expectations of on-time arrival. Thus, the measurement of space-time accessibility in transportation networks should be extended to consider joint activity choices and travel time uncertainty. In this paper, a new method for measuring space-time accessibility is proposed for individuals' joint activities in transit network with consideration of travel time uncertainty. A reliable alighting location model is proposed to identify all feasible alighting locations in transit network to perform joint activities by explicitly considering constraints of on-time arrival probabilities. Individuals’ joint space-time accessibility (JSTA) is measured based on reliable alighting locations, travel time budget, and points of interests. Massive smart card data from metro network in Nanjing, China are used to show the merits of the proposed JSTA measure. The results show that there is a significant difference between the space-time accessibility to independent activity and that to joint activity under various on-time arrival probabilities. The effects of spatial (de)concentration of anchor locations and minimum joint activity duration on JSTA, and the role of additional participants are also presented in various scenarios. The proposed JSTA measure can be used to help policy makers to evaluate transit network development and land use planning in urban areas.
+Keywords: Space-time accessibility; Joint activities; Travel time uncertainty; Transit network; Smart card data
+
+Sharmin Nasrin, Jonathan Bunker,
+Analyzing significant variables for choosing different modes by female travelers,
+Transport Policy,
+Volume 114,
+2021,
+Pages 312-329,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.10.017.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21002985)
+Abstract: Bangladesh is one of the world's strongest emerging economies. This nation is working on improving women's empowerment, with more women entering meaningful employment, and socio-cultural constraints on women's mobility gradually decreasing over time. However, for women in Bangladesh, travel constraints are currently more significant than cultural constraints. Therefore, to sustain the nation's economic growth, challenges to women's mobility must be resolved by developing a gender-inclusive transport system. To achieve this, proper transport planning is necessary. The aim of this research is to understand the significant variables contributing to Bangladeshi women travellers' mode choices. The main contribution of this article is to present an analysis of women's travel issues according to a range of income classes. The methodological approach adopted for this research is the mixed method approach of quantitative (Artificial Neural Network Model (ANN)) and qualitative (workshop discussions) analysis. Overall, Bangladeshi women commuters are vulnerable irrespective of their travel mode. From the discussion workshops we found that even though women face harassment during their daily commute, often they cannot change to another mode due to financial constraints. From the ANN model we found that uncontrolled fares, poor road conditions, lack of comfort, high cost, lack of availability, onboard overcrowding, and lack of safety to be some of the significant travel related issues that need to be improved across all modes. Overall, we conclude that independence and equity have not yet been achieved for the mobility of women in Bangladesh.
+Keywords: Women; Developing countries; Gender; Public transport; Mobility; Artificial neural network model
+
+Anthony D. May, Simon Shepherd, Paul Pfaffenbichler, Günter Emberger,
+The potential impacts of automated cars on urban transport: An exploratory analysis,
+Transport Policy,
+Volume 98,
+2020,
+Pages 127-138,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.05.007.
+(https://www.sciencedirect.com/science/article/pii/S0967070X20303619)
+Abstract: Objective
+The concept of automated cars is rapidly becoming a reality. Yet there has been very little analysis of the impacts of such developments on the performance of urban transport systems. These impacts are potentially complex. On the positive side, automation has the potential to increase road capacity, make driving available to more people, and reduce accidents and emissions. On the negative side, it could attract users away from public transport, walking and cycling, substantially increase traffic levels and stimulate urban sprawl. These impacts cannot currently be measured empirically and, by the time that they can, it will be too late to change the implementation model to rectify any resulting problems. Predictive assessments are therefore needed. This paper considers the possible impacts of automated vehicles, predicts their effects on the urban land use and transport system, and discusses the policy implications. We focus on automation of the car fleet, and do not consider the potential of automation of public transport or freight.
+Methods
+We consider the literature on the range of attributes of automated vehicles which might affect transport and land use patterns, and suggest potential outcomes for each over the period to 2050. These include the proportion of automated vehicles in the car fleet, whether automated vehicles are privately purchased or publicly shared, the impacts on network capacity, the reduced need to pay for and walk from parking places, the potential reduction in the value of in-vehicle time and the potential use by current non-drivers. We represent these attributes in an expanded causal link diagram of the urban land use and transport system and import those causal links into the MARS system dynamics model. We determine from the literature a level for each attribute, and test the impacts in a set of ten scenarios using an updated MARS model of Leeds.
+Results
+Based on our input assumptions, we find that car-km in 2050 could be over 50% higher than in the business as usual scenario. Public transport use could fall by 18%, threatening accessibility for those dependent on it, while walking and cycling could fall by 13%, reducing their health benefits. Overall person-km would rise, suggesting a reduction in sustainability. A requirement that all automated cars are shared vehicles could reduce these adverse impacts somewhat, but the effects are sensitive to the charge per km.
+Discussion
+Our use of a single value for each attribute means that our analysis is exploratory, but the size of the resulting impacts demonstrates the importance of understanding the scale of systems response to each of the attributes which we have considered. It will be important to manage the way in which automated cars are introduced into urban areas, if they are not to lead to a worsening of the urban environment, accessibility and health. A requirement to make all such vehicles part of shared fleets offers one way forward, but more work is needed to understand the way in which use of such fleets should be charged.
+Keywords: Autonomous vehicles; Urban transport; Modal choice; Land use
+
+Jianfeng Zhao, David Greenwood, Niraj Thurairajah, Henry J. Liu, Richard Haigh,
+Value for money in transport infrastructure investment: An enhanced model for better procurement decisions,
+Transport Policy,
+Volume 118,
+2022,
+Pages 68-78,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.01.021.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22000270)
+Abstract: This paper addresses the nebulous value for money (VfM) concept and its widely-criticised use in justifying the adoption of Public-Private Partnerships (PPPs) for transport infrastructure projects. It draws on the theories of value and identifies that value is generated in the interaction of the supply side (i.e., governments - as project sponsors and part of infrastructure delivery partnerships) and the demand side (i.e., end-users). In this sense, ‘public’ participation in transport is highlighted in the proposed framework to demonstrate that it is the combination of ‘traditional’ and ‘public’ VfM that together create a more meaningful VfM concept. To underpin the application of the framework, a dynamic VfM assessment process is developed that can facilitate the appropriate selection of a procurement method and assess its VfM throughout the project lifecycle. Unlike current examples, the framework is designed for both PPPs and their alternatives (e.g., conventional public sector procurement) and aligns ex-ante and ex-post VfM assessment. The enhanced model creates an opportunity for governments to recognise public VfM in transport interventions, shift their mindset from singular to multi-dimensional evaluation, and start to actually accumulate and exploit experience from past projects. As such, the contribution of this paper is twofold: (1) drawing upon theories of value, it depicts the ontology of VfM and addresses a missing ingredient in VfM assessment; and (2) it develops a holistic framework for the public sector to re-calibrate their VfM assessment policy when procuring transport projects.
+Keywords: Public-private partnerships; Public value for money; Transport procurement; Value for money assessment
+
+Laghu Parashar, Christy Ann Cheriyan,
+Application of mobility related data during pandemic: opportunities, issues and challenges in India,
+Transport Policy,
+Volume 111,
+2021,
+Pages 74-81,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.07.009.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21002109)
+Abstract: Data is already recognized as an essential piece for unlocking maximum value within a transportation system and it has the potential to create more efficient passenger mobility. The aim of this research is to critically assess the ecosystem for mobility data including policies and regulations in India to administer the pandemic and post-pandemic scenario. The paper identified various data sources based on a typical public transport journey, further summarizing strategies adopted world-wide during COVID-19. The application of data during and post pandemic scenario is discussed to identify that contact tracing and development of digital payment systems as most necessary for same. The paper concludes with a critical evaluation of current ecosystem of data policies putting forward the recommendations to current data policies in India.
+Keywords: Mobility data; COVID-19; Public transport data; Data policies; Digital payment; Data protection
+
+Sönke Behrends,
+Burden or opportunity for modal shift? – Embracing the urban dimension of intermodal road-rail transport,
+Transport Policy,
+Volume 59,
+2017,
+Pages 10-16,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.06.004.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16304929)
+Abstract: Intermodal road-rail transport (IRRT) has a significant urban dimension, which affects the modal shift potential and the environmental benefits of rail freight. This paper explores the relevance of local policies for sustainable modal shift strategies by conceptualising the links between urban planning and rail freight. The presented framework identifies measures that local authorities can apply in order to increase the market and environmental improvement potential of IRRT. The results indicate that local urban transport planning has a significant role to play in the promotion of rail freight. Integrating rail freight into long-term urban development plans offers new possibilities for rail freight that are necessary in order to achieve a sustainable freight transport system in the face of ever-increasing road transport volumes.
+Keywords: Intermodal transport; Modal shift; Urban transport; Rail freight; Transport planning; Sustainability
+
+Lianjie Jin, Jing Chen, Zilin Chen, Xiangjun Sun, Bin Yu,
+Impact of COVID-19 on China's international liner shipping network based on AIS data,
+Transport Policy,
+Volume 121,
+2022,
+Pages 90-99,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.04.006.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22000956)
+Abstract: As an essential sub-network of the global liner shipping network, China's international liner shipping network was the earliest to be affected by the COVID-19 and also had a significant impact on the global shipping network. This paper uses Automatic Identification System (AIS) data to analyze the impact of COVID-19 on the typical route networks and major ports of China's international liner shipping. On this basis, the changes in network efficiency and connectivity under the failure of important nodes is simulated. The research finds that, during the epidemic period, the scale of China's international liner shipping network increased, with more routes gathering at fewer hub ports. Still, the overall connectivity and connection strength declined. Meanwhile, the epidemic caused fluctuations in container volume and the mismatch of ship cargo capacity supply, in which China-U.S. routes was the most prominent. From the view of node, the competitiveness of China's mainland ports was significantly promoted during the epidemic. In addition, ports such as Busan, Singapore, and Hong Kong substantially impacted China's international liner shipping network. The current study might be helpful for the industry management departments and related companies to prepare contingency plans, thus enhancing the resilience of the logistics chain and ensuring the stability of the global supply chain.
+Keywords: COVID-19; China's international liner shipping network; Complex network; Automatic identification system (AIS)
+
+Chang Zhou, Qiong Tian, David Z.W. Wang,
+A novel control strategy in mitigating bus bunching: Utilizing real-time information,
+Transport Policy,
+Volume 123,
+2022,
+Pages 1-13,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.04.022.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22001251)
+Abstract: A variety of control mechanisms have been recommended to concentrate on the issue of bus bunching. However, the majority of existing measures focus on controlling the bus operation directly from the operator's perspective. This study, nevertheless, presents a novel control technique by providing passengers with real-time wait time information and degrees of in-vehicle congestion. Specifically, passengers are expected to use the given information to calculate the overall travel cost and, therefore, make decisions on whether boarding on the arriving bus or waiting for the next buses. In this way, bus service operators would reduce bus bunching by adjusting passengers' boarding choice behavior rather than controlling the bus vehicles directly. We propose a bus traffic propagation model to simulate the bus movements, through which several system performance metrics, such as the shortest vehicle spacing distribution and the average ridership per bus vehicle at each stop, can be evaluated for different bus bunching control measures. The numerical results show that providing in-vehicle congestion information is as effective as the schedule-based and headway-based control methods in achieving mitigation of bus bunching. Passengers on long trips are more inclined to wait for a few more shifts for a bus that is not very crowded. This study proposes a novel control strategy by offering passengers real-time information to serve as a supplement, never a substitute, to the existing control measures in mitigating bus bunching problems.
+Keywords: Information provision; Congestion information; Boarding choice behavior; Public transportation
+
+Mukti Advani, Niraj Sharma, Rajni Dhyani,
+Mobility change in Delhi due to COVID and its’ immediate and long term impact on demand with intervened non motorized transport friendly infrastructural policies,
+Transport Policy,
+Volume 111,
+2021,
+Pages 28-37,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.07.008.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21002092)
+Abstract: The COVID pandemic severely impacted mobility during lockdown as well as the period after that observing different phases of unlocking process. Lockdown has resulted in drastic mobility reduction and subsequent unlocking process brought back mobility gradually to a certain level, substantially lower than the Pre-COVID periods. However, this is expected to be back gradually to same level of Pre-COVID after certain period of time. While this change is planned to be gradual, it creates an opportunity to improve mobility towards non-motorized transport (NMT) which can influence travel behavior for present as well for the future covering Pre and Post-COVID periods. Apart from studying the influencing travel behavior during Pre and Post-COVID conditions, change in quantum of commuting population is required to be studied for various estimations related to transport planning. This quantum of commuting population is largely affected by the adopted locking/unlocking strategies by Government of India. Commuting population and travel behavior got influenced by the large migration from metro cities to smaller towns, adopted work from home (WFH) styles, reduced commute of elderly and children and other restrictions on gatherings, etc. Considering the range of allowed activities, influenced by the phases of locking/unlocking strategies, twelve different scenarios have been developed for various estimations. The developed scenarios have been named with alpha numeric style ranging from A0 to E5. A0 presenting the Pre-COVID scenario. Alphabet “A” represent Pre-COVID scenario, “B”, “C”, “D” and “E” Scenarios represent the unlocking phases, while number 1, 2, 3, 4 and 5 represents the different policy aspects related to the change on capacity of transport services (i.e. public transport capacity and change due to infrastructural improvement for NMT). Scenario A0 represents the Pre-COVID situation, while other ranges (viz., B1, B2, B3, C2, C3, C4, D2, D3, D5) represents various locking/unlocking levels. The Scenario E5 represents the situation without any movement restrictions, where public transport systems are assumed to be functioning with full capacity and infrastructure has been improved for NMT trips. Estimations for all the 12 scenarios include commuting population, their modal split, vehicle kilometers travelled by these vehicles and corresponding vehicular emission. Estimated modal split also includes the influence of improved NMT friendly infrastructure and reduced capacity of public transport systems. The results of developed scenarios provide a handy information for the policy makers to choose right policy to promote sustainable transportation with adequate emphasis on NMT. It is evident that as compared to the Pre-COVID scenario (A0), Post-COVID scenario with improved NMT infrastructure (E5) has VKT reduction of 19% in MTWs, 5% in Cars and 49% in Buses. Increase in bicycle trips have been estimated to be 5.88 million for Post-COVID scenario as compared to 1.1 million trips estimated for the Pre-COVID Scenario. Similar trend has also been observed for fuel consumption (reduction of 4.7%–11.8%) and corresponding vehicular emission (reduction of 14%). This study estimated the potential benefits of providing NMT friendly infrastructure considering the gradual shift influenced by locking/unlocking phases of COVID pandemic.
+Keywords: COVID; Non motorized transport; Modal split; Sustainable transportation; Vehicular emission
+
+Aurore Flipo, Nathalie Ortar, Madeleine Sallustio,
+Can the transition to sustainable mobility be fair in rural areas? A stakeholder approach to mobility justice,
+Transport Policy,
+Volume 139,
+2023,
+Pages 136-143,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.06.006.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23001580)
+Abstract: This research explores the modalities of distributional and procedural justice in the mobility sector through a qualitative research carried out among institutional and non-profit actors in the mobility sector in the Drôme and Ardèche departments of France. This justice is distributional in that the reduction in public transit provision has led people to assume the cost of mobility and changes to it on an individual basis. It is procedural insofar as environmental policies that affect mobility tend to be promulgated by the central government without the input of residents. The results of the research show that a mobility transition based on individual change tends to reproduce the high-carbon system's inequalities of access. In addition, the complexity of local mobility governance leads to the diffusion of responsibility that further reduces local citizens' ability to take part in the decision-making process. Civic associations, which play the role of local experts on rural mobility, appear as key to implementing long-term, interregional policies but raise questions about democracy in territorial policies.
+Keywords: Daily mobility; Rural areas; Sustainability; Social justice; Mobility justice
+
+Karolina Isaksson, Hans Antonson, Linnea Eriksson,
+Layering and parallel policy making – Complementary concepts for understanding implementation challenges related to sustainable mobility,
+Transport Policy,
+Volume 53,
+2017,
+Pages 50-57,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2016.08.014.
+(https://www.sciencedirect.com/science/article/pii/S0967070X1630186X)
+Abstract: This paper is focused on implementation challenges related to the integration of sustainable mobility in strategic local/regional land use and transport planning. The work was based on a case study of Stockholm, Sweden, focusing on four current plans and strategies of key importance for sustainable mobility. We identify and discuss implementation challenges related to sustainable mobility using a theoretical framework from the policy integration literature, with a focus on the dimensions of "layering", "drift" and "exhaustion" (Rayner & Howlett 2009). The empirical analysis led us to identify a complementary dimension which we call ‘Parallel policy making’. The parallel policy making reflects a fundamental lack of integration of sustainable mobility in policies and plans of strategic importance, which hinders effective policy integration. Altogether, we conclude that a better insight into the practice of parallel policy making is crucial for development of more effective implementation strategies for sustainable mobility in Stockholm and elsewhere.
+
+Alessio D. Marra, Linghang Sun, Francesco Corman,
+The impact of COVID-19 pandemic on public transport usage and route choice: Evidences from a long-term tracking study in urban area,
+Transport Policy,
+Volume 116,
+2022,
+Pages 258-268,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.12.009.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21003620)
+Abstract: The COVID-19 pandemic strongly affected mobility around the world. Public transport was particularly hindered, since people may perceive it as unsafe and decide to avoid it. Moreover, in Switzerland, several restrictions were applied at the beginning of the first pandemic wave (16/03/2020), to reduce the contagion. This study observes how the pandemic affected travel behaviour of public transport users, focusing on route choice and recurrent trips. We conducted a travel survey based on GPS tracking during the first pandemic wave, following 48 users for more than 4 months. The very same users were also tracked in spring 2019, allowing a precise comparison of travel behaviour before and during the pandemic. We analyse how the pandemic affected users, in terms of travel distance, mode share and location during the day. We specifically focus on recurrent trips, commuting and non-commuting, observing how mode and route changed between the two different periods. Finally, we estimate a route choice model for public transport (Mixed Path Size Logit), based on trips during the two different years, to identify how the route choice criteria changed during the pandemic. The main differences identified in travel behaviour during the pandemic are a different perception of costs of transfers and of travel time in train, and that users no longer have a clear preferred route for a recurrent trip, but often choose different routes.
+Keywords: COVID-19; Public transport; Tracking; Route choice; User behaviour
+
+Mikael Malmaeus, Linus Hasselström, Anna Mellin, Åsa Nyblom, Jonas Åkerman,
+Addressing rebound effects in transport policy – Insights from exploring five case studies,
+Transport Policy,
+Volume 131,
+2023,
+Pages 45-55,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.12.004.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22003390)
+Abstract: Although rebound effects are well-known as a phenomenon, the question of how to avoid and minimize rebound effects have largely been ignored in practical policy. In this study, five concrete cases of measures and policies in the transport sector illustrate primary effects, rebound effects and possible strategies to avoid or minimize rebound effects. The cases were explored and analyzed in a series of workshops involving in total 15 researchers and societal actors. In addition to the net impact of primary and rebound effects, factors such as the time horizon and the reversibility of the effect may also be important for the evaluation of measures and policies. To detect and avoid rebound effects – and to assess the effectiveness of a policy – a system perspective is needed rather than a narrow sector focus. When designing measures, broad system-wide strategies or specific measures addressing particularly emission-intensive activities tend to be most effective for avoiding rebound.
+Keywords: Rebound effect; Jevons' paradox; Transport policy; Climate policy; System boundaries
+
+Christian Holz-Rau, Joachim Scheiner,
+Land-use and transport planning – A field of complex cause-impact relationships. Thoughts on transport growth, greenhouse gas emissions and the built environment,
+Transport Policy,
+Volume 74,
+2019,
+Pages 127-137,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.12.004.
+(https://www.sciencedirect.com/science/article/pii/S0967070X17302780)
+Abstract: The notion of integrated land-use and transport planning is linked to hopes that it may be possible to reverse the traffic-inducing effects of interactions between the built environment and transport, and to use planning interventions in land-use and transport provision to effectively contribute to the reduction of transport-related greenhouse gas emissions. However, the targeted design of mixed-use and compact structures on the local and regional level is superimposed by societal and spatial trends that make large-scale mobility politically desirable or necessary. Against this background, the aforementioned hopes appear clearly exaggerated. Written from a German, at times also a wider European perspective, this paper develops the following argument. Land-use and transport are indeed interrelated, but the historical transport growth we face is mainly driven by other societal factors, such as economic growth, the spatial division of labour, large-scale societal integration, and gender equity. In addition, the effects of land-use on transport are uncertain due to limited knowledge on cause-impact relationships. Even in cases where cause and impact can be established, the impact of planning is limited. We conclude that the scope of integrated land-use and transport planning on the local level should not be overestimated so as to avoid false hopes and corresponding failures. This type of planning can hardly be justified by arguments related to the prevention of carbon dioxide emissions, but is useful in pursuing other urban development goals, such as ensuring accessibility without the use of cars, providing a healthy and livable environment, and – to a lesser extent – shifting travel to other modes and, indeed, reducing it overall. Local and regional land-use and transport planning should be justified by realistic and achievable goals, while at the same time highlighting that it has little effect on the general increase in distances travelled and associated greenhouse gas emissions. Conversely, we conclude that the necessary reduction of emissions within the transport sector must be tackled by interventions on the national and supranational levels, rather than expecting or demanding success from largely ineffective, more local interventions and the actors involved with them.
+Keywords: Transport growth; Peak travel; Urban development; Land-use planning; Climate protection; Transport planning
+
+Abderrahman Ait Ali, Jonas Eliasson, Jennifer Warg,
+Are commuter train timetables consistent with passengers’ valuations of waiting times and in-vehicle crowding?,
+Transport Policy,
+Volume 116,
+2022,
+Pages 188-198,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.11.025.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21003462)
+Abstract: Social cost-benefit analysis is often used to analyse transport investments, and can also be used for transport operation planning and capacity allocation. If it is to be used for resolving capacity conflicts, however, it is important to know whether transit agencies' timetable requests are consistent with the cost-benefit framework, which is based on passenger preferences. We show how a public transport agency's implicit valuations of waiting time and crowding can be estimated by analysing timetables, apply the method to commuter train timetables in Stockholm, and compare the implicit valuations to the corresponding passenger valuations in the official Swedish cost-benefit analysis guidelines. The results suggest that the agency puts a slightly lower value on waiting time and crowding than the passenger valuations codified in the official guidelines. We discuss possible reasons for this and implications for using cost-benefit analysis for capacity allocation. We also find that optimal frequencies are more sensitive to the waiting time valuation than to that of crowding.
+Keywords: Waiting time; Crowding; Cost-benefit analysis; Implicit preference; Commuter train
+
+Roger Vickerman,
+Will Covid-19 put the public back in public transport? A UK perspective,
+Transport Policy,
+Volume 103,
+2021,
+Pages 95-102,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.01.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21000111)
+Abstract: Covid-19 has had a major impact on public transport systems across the world. Public financial support has been needed to maintain services in the face of drastically reduced ridership and adjustment to the need for social distancing. This paper explores the challenge this poses to current methods of delivery of public transport services and argues that a simple return to the status quo is unlikely as public transport adjusts to a new normal of more home working and fear of crowded spaces. In turn this impacts most on the transport disadvantaged. The paper argues that this may spell the end of the prevailing model of a deregulated competitive public transport that has prevailed in the United Kingdom and require a major rethinking of the way to provide an efficient and effective transport system. Such a rethink will depend on understanding the interplay of private and social norms and building public trust.
+Keywords: Transport impacts of Covid-19; Public transport; Government funding; Transport planning; United Kingdom
+
+Isak Rubensson, Yusak Susilo, Oded Cats,
+Is flat fare fair? Equity impact of fare scheme change,
+Transport Policy,
+Volume 91,
+2020,
+Pages 48-58,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.03.013.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19306808)
+Abstract: When Public Transport Administrations propose changes in fare schemes or increased fares, they are often met with concerns regarding the proposed fare schemes fairness. Implicit in these concerns is an understanding of relations governing land use and public transport, impacting equity. In this paper, we use socio-economic statistics of census areas in conjunction with public transport travel data from a transport forecast model to assess the geographical and distributional fairness of alternative fare schemes: flat, zone-based and distance-based. We discuss our result in relation to both the scientific literature and the known “truths” in the public debate. The method is applied to the Case study of Stockholm public transport. We find that high-income travelers benefit from all three fare schemes considered but, in contrast to much of the literature, least by flat fares. A strong distance-dependent fare could be horizontally equitable but has poor vertical equity.
+Keywords: Fare-schemes; Equity; Public transport; Distribution; Gini index; Transport demand models
+
+Helena Bohman, Jean Ryan, Vanessa Stjernborg, Désirée Nilsson,
+A study of changes in everyday mobility during the Covid-19 pandemic: As perceived by people living in Malmö, Sweden,
+Transport Policy,
+Volume 106,
+2021,
+Pages 109-119,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.03.013.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21000755)
+Abstract: Sweden's strategy to manage the spread of Covid-19 has not included any form of lockdown, in contrast to the approaches adopted by most other countries. Instead, the strategy has been largely based on strong recommendations for society. Even though Sweden has not had any form of lockdown, the Covid-19 pandemic has during a relatively short period of time brought changes for society, significantly disrupting everyday life. The pandemic poses both challenges and opportunities for sustainable future transport, not least public transport provision, supply and use. The purpose of this study is to investigate how changes for society have translated into changes for mobility as an element of everyday life during the early stages of a pandemic. This study draws on a map-based online survey (public participatory GIS) which was purposefully designed to allow people to contribute with their experiences in order to capture how the current situation has affected several different facets of people's everyday life. Results suggest that effects on mobility, such as the possibility to telework, affect different groups differently and may exacerbate existing differences in terms of gender, geography and mobility. In order to mitigate negative effects, transport policy needs to be tailored in order to take these heterogeneities into account. Both spatio-temporal adjustment and modal adjustment were dominant themes for most activities, although the dominance of these themes varied among the activities. Our findings give an indication of both the short and long-term impacts on everyday mobility in the Swedish context, for groups of inhabitants in the city of Malmö. Through deepening our understanding of the processes at play, we suggest eight possible policy responses that can be carefully tailored, both in the interim and into the future.
+Keywords: Public participatory GIS; Mobility; Covid-19; Virtual mobility; Telework
+
+Mi Diao,
+Towards sustainable urban transport in Singapore: Policy instruments and mobility trends,
+Transport Policy,
+Volume 81,
+2019,
+Pages 320-330,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.05.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16307508)
+Abstract: In this study, we review a series of policy instruments for sustainable transport in Singapore, a city-state with significant land constraints and rapid population and economic growth. We analyze three pillars of Singapore's approach to sustainable transport: reducing car dependency, promoting public transport, and integrated land use and transport planning. We summarize three directions guiding the evolution of transport policies in Singapore: smartness, inclusiveness, and greenness. Drawing on official annual transport statistics, we evaluate the effect of transport policies on mobility patterns of Singapore residents. We find that the policy package of the government has successfully constrained car dependency, promoted public transit use, mitigated road congestion, and maintained affordable transit fares in Singapore. The research findings have significant policy implications for Singapore to meet its mobility needs in the future, and for other cities to develop their own strategies for sustainable transport, especially for high-density, rapid expanding Asian cities.
+
+Philippe Stadler Benz, Michael Stauffacher,
+A systemic approach to the transformation of swiss railway stations: Mind the gap between the local, short-term and national, long-term worldviews,
+Transport Policy,
+Volume 132,
+2023,
+Pages 99-111,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.12.020.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22003559)
+Abstract: The continuing growth in passenger transport and the associated increase in CO2 emissions remain major challenges for our society. Shifting passenger transport to more sustainable modes of transportation contributes to addressing this challenge. Multimodal transportation hubs (MMTHs) coordinate and integrate different modes of transportation by improving transfers between them. In addition, MMTHs offer a high quality of stay with a wide range of services, as well as a compact, mixed-use urban development with a high density of uses around them. The transformation of railway stations and their environments into MMTHs is addressed in discussions of transit-oriented development (TOD) and the concept of “node and place.” However, there is a lack of a systemic approach that structures the problem involving the different worldviews of the actors. In addition, the necessary changes and measures are largely unknown. Based on the soft systems methodology (SSM), we conducted 20 SSM interviews and two SSM workshops (n = 10 each). Our results show that the problem can be structured into the three layers of “national long-term integrated optimization of the passenger transport sector and spatial development,” “local short-to medium-term planning and implementation,” and a “regional, bidirectional transfer by policy-making and planning.” The transfer layer between the national, long-term and local, short-term worldviews is key and must be strengthened. Furthermore, we present systemically desirable and culturally feasible measures for each layer to improve the current situation of the transformation—a national MMTH program, creating an overarching vision, a caretaker for local implementation to coordinate the interests of actors, and collaborative development of regional master plans and an explorative approach to ensure bidirectional exchanges between the national and local layers. Although the structuring of the problem and the measures were developed from a Swiss viewpoint, we expect that the results will also be useful for other decentralized states.
+Keywords: Multimodal transportation hubs (MMTHs); Integration of transportation modes; Problem structuring; Soft systems methodology (SSM); Sustainable transport; Switzerland
+
+Gabriela Michelini, Diego Dametto, Antje Michel,
+Who is doing what and how? Descriptive analysis of the sustainable mobility planning practice in Germany,
+Transport Policy,
+Volume 134,
+2023,
+Pages 231-241,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.02.022.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23000537)
+Abstract: The current European guidelines for the Sustainable Urban Mobility Plan (SUMP) promote a vertical (European, national, regional and local policy goals) and horizontal (sectorial and operational plans) integrated mobility planning approach based on the involvement of different target groups. However, how this involvement is implemented in practice is not sufficiently researched, and empirical data that go beyond a single case study are still to be developed. This paper aims to fill this gap by presenting an empirical assessment of planning practices. Through a mixed-method approach combining grounded theory and quantitative data analysis techniques, including co-occurrences analysis, association rules and network analysis, we analysed planning documents (n = 67) and identified patterns in which target groups are involved through an array of participation methods aiming for different participation goals within German urban mobility planning. Our results point to the participation gap of professional stakeholders from the strategy development phases, which is rather kept at the decision-making level with input from researchers and consultants. Citizens are actively involved during the envisioning phases, but passively engaged after the implementation of measures. Conclusively, we reflect on these empirical findings from a methodological and operational point of view.
+Keywords: Sustainable mobility planning; Transdisciplinary methods; Stakeholder involvement; Mixed methods approach
+
+Emine Zehra Akgün, Jason Monios, Tom Rye, Achille Fonzone,
+Influences on urban freight transport policy choice by local authorities,
+Transport Policy,
+Volume 75,
+2019,
+Pages 88-98,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.01.009.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18305468)
+Abstract: Individual freight transport policies have been investigated in the literature extensively in the last 10–15 years, yet there has surprisingly been very little attention to the process of selecting urban freight transport (UFT) policy measures. This study focuses on UFT policy choice by local authorities, investigating how policy context, resource availability and the need for legitimacy influence how local authorities seek and select UFT specific policies. The methodology is a cross-case analysis of eleven cities across three countries (Sweden, England and Scotland), based on interview and documentary data. Findings reveal that all cities have the same high-level goals, such as reducing emissions and congestion, supporting the economy and improving quality of life. However, in most cases these rather general goals are not broken down into clear objectives with targets that can be measured. Therefore, selected UFT policy measures are chosen from a pool of common measures (primarily access restrictions such as time windows and weight restrictions), but without monitored targets that determine whether or not they are achieving objectives. This does not necessarily mean that the measures chosen are inappropriate, but that there is a lack of a strategic approach to setting and reviewing measures according to achieving specific policy goals. This is primarily a result of a lack of resources and dedicated UFT personnel, as well as challenges related to public acceptability of restrictive policies.
+Keywords: Urban freight transport; UFT; Policy; City logistics; Planning; Governance
+
+Benjamin Gramsch, C. Angelo Guevara, Marcela Munizaga, Daniel Schwartz, Alejandro Tirachini,
+The effect of dynamic lockdowns on public transport demand in times of COVID-19: Evidence from smartcard data,
+Transport Policy,
+Volume 126,
+2022,
+Pages 136-150,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.06.012.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22001779)
+Abstract: Governments around the globe have taken different measures to tackle the COVID-19 pandemic, including the lockdown of people to decrease infections. The effect of such a strategy on transport demand is important not only for the current pandemic but also to understand changes in transport use and for future emergencies. We analyse a 2019–2020 database of smartcard data of trips from the city of Santiago, Chile, which followed a dynamic lockdown strategy in which its municipalities were temporarily restricted. We use this variation over time across municipalities to study the effect of lockdowns on public transportation using trips on buses and metro, accounting for the variation of municipalities that were under lockdown in a given day. We found a decrease of 72.3% at the beginning of the pandemic when schools suspended in-person classes, while the dynamic lockdowns reduced public transport demand by 12.1%. We also found that the effect of lockdowns decreased after the fifth week of their application, suggesting a short-term effectiveness of such policy to reduce mobility. Regarding sociodemographic effects, we found that lockdowns have a stronger impact on reducing public transport demand in municipalities with a larger proportion of the elderly population (2% additional reduction per 1% increase in the share of the elderly population) and high-income households (16% additional reduction for 1000 USD increase in GDP per capita).
+Keywords: COVID-19; Lockdown; Non-pharmaceutical interventions; Public transport; Bus; Metro
+
+Max Munday, Laura Reynolds, Annette Roberts,
+Re-appraising ‘in-process’ benefits of strategic infrastructure improvements: Capturing the unexpected socio-economic impacts for lagging regions,
+Transport Policy,
+Volume 134,
+2023,
+Pages 119-127,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.02.012.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23000379)
+Abstract: The paper explores the scope of transportation infrastructure appraisal approaches for capturing in-process (during design/development and construction) socio-economic impacts. In-process socio-economic impacts are explored through the case of a major road infrastructure improvement programme in South Wales, United Kingdom. The study posits that monitoring in-process benefits can provide a more holistic understanding of impacts to better inform appraisal approaches, addressing concerns over existing appraisal transparency and accountability. Advancing monitoring and appraisal in this way means that more unexpected socio-economic outcomes for regional economies can be understood. These impacts are illustrated through the labour market, skills and wider supply side legacy benefits resulting from direct project activity. The paper reveals the potential outcomes of capturing these in-process socio-economic benefits when supporting local economies in lagging regions.
+Keywords: Strategic infrastructure projects; In-process benefits; Local legacy benefits; Socio-economic impacts; Transport appraisal policy; Cost benefit analysis
+
+Anthony D. May,
+The contribution of Jules Dupuit and the case for further inter-disciplinary collaboration,
+Transport Policy,
+Volume 70,
+2018,
+Pages 29-31,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.04.016.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18303445)
+
+James Chakwizira,
+Stretching resilience and adaptive transport systems capacity in South Africa: Imperfect or perfect attempts at closing COVID -19 policy and planning emergent gaps,
+Transport Policy,
+Volume 125,
+2022,
+Pages 127-150,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.06.003.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22001664)
+Abstract: The COVID-19 pandemic has presented a new wave of health, infrastructure and built environment challenges and opportunities. The COVID-19 pandemic induced environment presents a divide between the “new and old normal” with policy and planning implications for health, transport and general socio-economic growth and development. Multiple and complex nuanced transport matters cascade all geographic scales and pervade all sectors of the economy. The extent to which existing transport systems capacities are resilient, adaptive, and optimized for complete disaster planning, management and sustainability is questioned. This paper critically reviews how the COVID-19 pandemic has stretched the resilience and adaptive transport systems capacities in South Africa. A critical question interrogated is whether on-going policy and planning interventions constitute imperfect or perfect attempts at closing COVID -19 policy and planning emergent gaps. The paper makes use of South Africa as a case study, referencing the Disaster Management Act (No. 57 of 2002) and logical Disaster Management Act: Regulations relating to COVID-19 (Government Notice 318 of 2020),11As amended from time to time i.e., Disaster Management Act, 2002 (Act No. 57 of 2002), having declared a national state of disaster published by Government Notice No 313 of 15 March 2020, and extended by Government Notices Nos 646 of 5 June 2020. 765 of 13 July 2020, 889 of 15 August 2020, 995 of 14 September 2020, 1090 of 14 October 2020, 1225 of 14 November 2020 and 1341 of 11 December 2020, No. R. 15 of 13 January 2021 and No. R69 of 1 February 2021. with specific reference to the transport sector lockdown regulations in unravelling policy and planning implications. Drawing from the complex systems adaptive theory (CSAT), sustainability theory (ST), innovation theory (IT), transitions theory (TT), thematic COVID -19 transport planning and policy adaptation, mitigation measures in the South African transportation sector are discussed. Emergent lessons with respect to developing and advancing a new generation of resilient, adaptive, and optimized transport proof infrastructure and services including revising transport and related policies that navigates through various waves and cycles of induced pandemic and shocks is suggested.
+Keywords: COVID-19; Resilient and adaptive transport; Complex systems theory; Innovation theory; Transitions theory; Policy; And planning implications
+
+Morten Welde, Eivind Tveter,
+The wider local impacts of new roads: A case study of 10 projects,
+Transport Policy,
+Volume 115,
+2022,
+Pages 164-180,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.11.012.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21003334)
+Abstract: This paper investigates the impacts of road investments in secondary markets, which the authors label wider local impacts. The impacts are studied using four indicators: commuting, population, new firms, and employment. We use the synthetic control method to study the counterfactual problem, namely what would have happened if a given project had not been realised. The method is used to compare municipalities that had been given a new road with municipalities that had not had a new road. The study sample consists of ten road projects that opened for traffic between 2000 and 2010 and the impacts of the projects are examined at municipal level. The results do not provide a clear answer as to whether road projects are a suitable tool for fulfilling political objectives of improving the local economy. Apart from possibly one exception, none of the projects scored positively on all indicators. We identify several examples of significant negative impacts as a result of road investments, and conclude that although the impacts have been positive in many areas, there is no evidence that road investments are generally a potent tool for achieving positive wider local impacts.
+Keywords: Appraisal; CBA; Local impacts; Two-way road effect; Wider impacts
+
+Fredrik Johansson, Patrik Tornberg, Astrid Fernström,
+A function-oriented approach to transport planning in Sweden: Limits and possibilities from a policy perspective,
+Transport Policy,
+Volume 63,
+2018,
+Pages 30-38,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.11.006.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16308423)
+Abstract: Research on sustainability and transport has paid increasing attention to how the purpose of the transport system is framed, often arguing that there is a need to shift the focus of transport planning and policy from the physical infrastructure to mobility and accessibility. Sweden's national transport policy also has elements of this shift, most noticeable in the so-called four step principle, where the possibility to affect the need for transport and choice of transport mode (step 1) and the possibility to use existing infrastructure more efficiently (step 2) should be considered before large reconstructions (step 3) or new infrastructure (step 4) is chosen as the solution to transport related problems. The aim of this article is to study whether the practical implications of Swedish national transport policy are consistent with the ambitions expressed in the four step principle, with particular focus on the Swedish Transport Administration's (STA) mandate to finance different measures. Based on an analysis of policy documents and semi-structured interviews the main finding of the analysis is that many step 1 and 2 measures do not fall within the financial mandate of the STA. The implementation of the four step principle therefore depends on the commitment among other actors than the STA to implement step 1 and 2 measures. Furthermore, it is concluded that the limits to the STA mandate has consequences for the ability of the STA to engage in collaboration with the actors on which it depends, and that strengthening the STA's mandate to finance a desired function rather than physical infrastructure is likely to increase commitment among other stakeholders to work with these measures. Such a step would imply a different regulatory framework than the current, more in line with ”the sustainable mobility paradigm” (Banister 2008) and could contribute to a good accessibility to different amenities at the same time as negative environmental impacts are reduced.
+Keywords: Networks; Commitment; Collaboration; Sweden; Four step principle
+
+Karel Martens,
+Ageing, impairments and travel: Priority setting for an inclusive transport system,
+Transport Policy,
+Volume 63,
+2018,
+Pages 122-130,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.12.001.
+(https://www.sciencedirect.com/science/article/pii/S0967070X17308491)
+Abstract: The ageing of the population in many countries suggests that transport systems will have to be adapted to the needs of an increasing number of persons experiencing travel-related impairments. This development underscores the importance of a more fundamental challenge for transport planning: providing all persons with accessibility to key destinations, irrespective of the features of a person's body. The challenge is to move beyond the notion of universally accessible transport systems towards an inclusive transport system. Where the former focuses on adapting existing transport systems to the needs of persons with the widest possible range of abilities, the latter refers to the goal to provide all persons with access to a range of key destinations. This challenge requires not only the adaption of existing transport systems, but also the extension of those systems to provide travel-impaired persons and others with access to destinations. The aim of the paper is to develop a basic framework that can be helpful to set priorities towards the development of such an inclusive transport system. The framework distinguishes two principles for priority setting, one derived from the principle of welfare maximization and one conceptualizing the notion of hardship. Based on these two principles of priority setting, three different categories of measures to enhance accessibility for persons experiencing travel-related impairments are distinguished: (1) measures that live up to the principle of efficiency or welfare maximization; (2) measures that reduce transport-related hardship through adaptation or extension of the mainstream transport system; and (3) measures that reduce transport-related hardship through dedicated services for persons with travel impairments. The proposed framework requires changes in the practice of cost-benefit analysis, as well as a clear delineation of a hardship threshold. The latter is considered essential to make the transport problems experienced by persons with travel impairments visible to the public eye.
+Keywords: Travel impairment; Priority setting; Universal access; Evaluation; Appraisal; Accessibility; Hardship; Welfare
+
+Frank Crowley, Hannah Daly, Justin Doran, Geraldine Ryan, Brian Caulfield,
+The impact of labour market disruptions and transport choice on the environment during COVID-19,
+Transport Policy,
+Volume 106,
+2021,
+Pages 185-195,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.04.008.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21001037)
+Abstract: Since late 2019, COVID-19 has devastated the global economy, with indirect implications for the environment. As governments’ prioritized health and implemented measures such as the closure of non-essential businesses and social distancing, many workers have lost their jobs, been furloughed, or started working from home. Consequently, the world of work has drastically transformed and this period is likely to have major implications for mobility, transportation and the environment. This paper estimates the potential for people to engage in remote work and social distancing using O*NET data and Irish Census data and calculates the potential emission savings, by commuter type from a switch to remote working and occupational social distancing. The results show that while those who commute by car have a relatively high potential for remote work, they are less likely to be able to engage in social distancing in their workplace. While this may be negative for employment prospects in the short run, our analysis indicates that this pattern has the potential for positive environmental implications in the short and long run.
+Keywords: Social distancing; Remote work; Transport choice; Commute; Environment
+
+Oscar Egu, Patrick Bonnel,
+Medium-term public transit route ridership forecasting: What, how and why? A case study in Lyon,
+Transport Policy,
+Volume 105,
+2021,
+Pages 124-133,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.03.002.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21000627)
+Abstract: Demand forecasting is an essential task in many industries and the transportation sector is no exception. This is because accurate forecasts are a fundamental aspect of any rationale planning process and an essential component of intelligent transportation systems. In the context of public transit, forecasts are needed to support different level of planning and organisational processes. Short-term forecast, typically a few hours in the future, are developed to support real-time operations. Long-term forecast, typically 5 years or more in the future, are essential for strategic planning. Those two forecast horizons have been widely studied by the academic community but surprisingly little research deal with forecast between those two ranges. The objective of this paper is therefore twofold. First, we proposed a generic modelling approach to forecast next 365 days ridership in a public transit network at different levels of spatiotemporal aggregation. Second, we illustrate how such models can assist public transit operators and transit agencies in monitoring ridership and supporting recurrent tactical planning tasks. The proposed formulation is based on a multiplicative decomposition that combines tree-based models with trend forecasting. The evaluation of models on unseen data proves that this approach generates coherent forecast. Different use cases are then depicted. They demonstrate that the resulting forecast can support various recurrent tactical tasks such as setting future goals, monitoring ridership or supporting the definition of service provision. Overall, this study contributes to the growing literature on the use of automated data collection. It confirms that more sophisticated statistical methods can help to improve public transportation planning and enhance data-driven decision making.
+Keywords: Public transit; Ridership forecasting; Machine learning; Smart card data; Transport planning
+
+K. Anastasiadou, S. Vougias,
+“Smart” or “sustainably smart” urban road networks? The most important commercial street in Thessaloniki as a case study,
+Transport Policy,
+Volume 82,
+2019,
+Pages 18-25,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.07.009.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19300150)
+Abstract: In an era where the notion of “smart” has entered almost every sector, including that of transport, it seems more important than ever to preserve the real “smartness” of road networks, addressing the needs of all users, mainly of the vulnerable ones, by means of new technologies in transport sector. The present work reveals the need for designing “sustainably smart” instead of “smart” road networks, referring to the adoption of “smart” technologies in the context of sustainable mobility. Aiming at highlighting problems due to improper or inefficient implementation of Intelligent Transport Systems (ITS) in urban environment, the most crowded and congested street of Thessaloniki (Greece) is studied. It is characterized by severe pedestrian delays and high imposed pedestrian speed at crossings, due to ITS which ensure high priority of motorized traffic over pedestrians at signalized intersections, thus improving vehicle travel times, but highly extending pedestrian waiting times and minimizing green-man phase duration, resulting in significant loss of pedestrian man-hours and in increased safety risk for them. The existing situation is assessed and proposals towards the implementation of the notion of “sustainable intelligence” in a “smart” urban road network, turning it into a “sustainably smart” urban road network, are made.
+Keywords: Sustainable intelligence; Intelligent transport systems; Smart city; Sustainable urban mobility; Smart urban road networks; Transport planning
+
+Anna Plyushteva, Kobe Boussauw,
+Does night-time public transport contribute to inclusive night mobility? Exploring Sofia's night bus network from a gender perspective,
+Transport Policy,
+Volume 87,
+2020,
+Pages 41-50,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.01.002.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19302690)
+Keywords: Night-time; Public transport; Gender; Inclusion; Night mobility
+
+Anders Tønnesen, Gro Sandkjær Hanssen, Karsten Bruun Hansen, Sandra C. Valencia,
+Integrative climate leadership in multi-level policy packages for urban mobility - A study of governance systems in two Nordic urban regions,
+Transport Policy,
+Volume 128,
+2022,
+Pages 309-317,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.05.007.
+(https://www.sciencedirect.com/science/article/pii/S0967070X2200138X)
+Abstract: This paper involves a comparative study of policymaking related to urban transport in the Gothenburg and Oslo regions. It sets out to show how strong climate leadership relates to the integration of policy measures and governance systems. Methodologically, we apply document analysis and qualitative interviews with key informants. Our clearest finding is the importance of the city's contextual governance framework for integrative climate leadership. The strong components of the leadership in Oslo—involving both horizontal and upward coordination—rely on a well-developed governance framework with operationalised goals, strategies and steering tools. This enables them to utilise multiple types of climate leadership. This contrasts with the lower degree of integration and defensiveness in Gothenburg, in terms of willingness to use effective but politically sensitive policy measures.
+Keywords: Policy packages; Climate leadership; Integrative governance
+
+Rebecca Johnson, Jon Shaw, Jörn Berding, Matthias Gather, Markus Rebstock,
+European national government approaches to older people's transport system needs,
+Transport Policy,
+Volume 59,
+2017,
+Pages 17-27,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.06.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16307843)
+Abstract: In the context of an ageing population in Europe, our aim in this paper is to establish the extent to which national governments accommodate mobility among older people by promoting specific, age-friendly qualities of transport systems. We identify 11 qualities that help to promote mobility, and hence independence and social/economic inclusion, for older people. We analyse national-level government documents across the EU, Norway and Switzerland to determine how far they address each quality and conclude that disproportionate emphasis is currently being placed on the tangible and easily understood aspects of safety, barrier freedom and affordability. For various reasons, mobility among older people might better be promoted with a more rounded approach.
+Keywords: Older people; Mobility; Transport system; Transport needs; European Union
+
+Deepti Muley, Mohammad Shareef Ghanim, Anas Mohammad, Mohamed Kharbeche,
+Quantifying the impact of COVID–19 preventive measures on traffic in the State of Qatar,
+Transport Policy,
+Volume 103,
+2021,
+Pages 45-59,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.01.018.
+(https://www.sciencedirect.com/science/article/pii/S0967070X2100024X)
+Abstract: Ever since the beginning of 2020, the mobility of people and goods all over the world has been extremely limited as a result of movement restrictions imposed by local authorities as part of several other efforts to stop the wide spread of COVID–19 pandemic. The Supreme Committee for Crisis Management in the State of Qatar adopted the policy of incremental preventive measures that were adjusted based on the pandemic status. These actions involved several restrictions, aiming a balance between reducing the pandemic spread and the typical daily activities disturbance. This paper assesses the impact of pandemic response measures on traffic mobility by quantifying the holistic impact of the incremental measures at different stages on traffic volumes and traffic safety. Daily traffic counts from 24 intersections were collected every 15-min for several days, representing the traffic before and after implementing each preventive measure. Besides, a screenline was used to represent the traffic entering and leaving the Central Business District (CBD) in the City of Doha. The results show that the daily traffic demand distribution over the course of day was not affected by those preventive measures. However, an overall demand reduction of 30% in baseline traffic was observed for all studied intersections and the screenline when all preventive measures were active. Moreover, the analysis of traffic violations and the total crashes indicated a drop of 73% and 37% respectively. The results from this assessment will assist decision and policy makers, and planners to prioritize traffic management actions for future needs. Further, the findings can also be utilized for mega–event traffic management in the post-COVID era, such as FIFA World Cup 2022 and 2030 Asian Games.
+Keywords: COVID–19; Mobility impact; Pandemic preventive measures; Traffic mobility; Traffic safety; Traffic injuries; State of Qatar
+
+John K. Stanley, David A. Hensher, Janet R. Stanley, Dianne Vella-Brodrick,
+Valuing changes in wellbeing and its relevance for transport policy,
+Transport Policy,
+Volume 110,
+2021,
+Pages 16-27,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.05.017.
+(https://www.sciencedirect.com/science/article/pii/S0967070X2100161X)
+Abstract: There is growing transport policy interest in identifying how governmental interventions may affect wellbeing. However, research on transport-wellbeing connections does not extend to monetization of wellbeing benefits, to enable alignment with economic values used in transport cost-benefit analysis. Such monetization could support improved transport policy and project sustainability analysis, involving economic, social and/or environmental trade-offs. This paper estimates separate monetary values for changes in subjective, affective and meaning centred (eudaimonic) wellbeing and examines their association with social exclusion. It also includes associated monetization of trip making, changes in social capital and in sense of community. The monetary values estimated in the paper all increase as household income declines. They support a transport policy and project appraisal focus that extends benefit/cost valuation beyond what is included in traditional transport economic cost-benefit analysis, helping to close a major gap in current appraisal methodology. Understanding the value of improving wellbeing highlights the opportunities to assist those at most risk of mobility-related social exclusion by taking more integrated approaches to transport planning and policy making.
+Keywords: Benefit measurement; Social capital; Social exclusion; Transport policy; Wellbeing
+
+Zakia Soomauroo, Philipp Blechinger, Felix Creutzig,
+Electrifying public transit benefits public finances in small island developing states,
+Transport Policy,
+Volume 138,
+2023,
+Pages 45-59,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.04.017.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23001208)
+Abstract: Deep decarbonization of the transport sector in small island developing states (SIDS) can simultaneously address issues of energy security, high fuel import prices, and climate change mitigation measures while ensuring a reduction in air pollution and higher levels of wellbeing for citizens. Electrification plays a vital role in the decarbonization process. Here, we investigate potential transition pathways towards electrification, taking the public transportation system in Mauritius as an example, where there is vast potential in electrifying the old and overburdened bus system. We simulate a variety of public bus turnover scenarios, considering initial costs of investments, energy and fuel requirements, and reductions in greenhouse gas emissions. We demonstrate that optimized investment into electrifying public transit pays off, with annualized investments of about $5 million superseded by annual savings on fossil fuel imports of about $15 million. We suggest that international donors can accelerate this transition by providing loan guarantees and, by this, reducing the cost of capital.
+Keywords: Electrification; Island; Public transport; Infrastructure factors; Fossil fuel dependence
+
+Saakshi Joshi, Ajay Bailey, Anindita Datta,
+On the move? Exploring constraints to accessing urban mobility infrastructures,
+Transport Policy,
+Volume 102,
+2021,
+Pages 61-74,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.11.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X20309227)
+Abstract: Urban mobility infrastructures are crucial in connecting people to a city and the prospects it provides. Through a critical review of literature on growth of cities in South Asia, transport initiatives and policies, and the existing transport situation, this paper highlights barriers which impact accessibility to transport and thus, ridership. As Delhi gears up to become the world's most populated city, how does its transport infrastructure fare in enabling users' ease of movement and providing opportunities to access work, education, healthcare, and social life? The paper explores how challenges to access transport are a result of interactions between several inter-sectional factors. These include an individual's social and spatial position in the city, role of transport policies in shaping road-based transport, and Delhi's growth in the form of urban sprawls which has resulted in uneven distribution of and access to services. At the core of these inter-linked factors lie the users through whom the challenges or opportunities to access transport become operationalised. By highlighting transport-related constraints, including who is considered a user and who is not, this paper pushes for more inclusive discussions on the future of transport planning, and interventions for improving accessibility. Identifying opportunities for actions and addressing gaps is imperative as Delhi witness's continuous growth and migration. This review of existing transport literature is beneficial for policy recommendations and strategies for meaningful change.
+Keywords: Transport policy; Barriers; Accessibility; Mobility infrastructures; Delhi; India
+
+John D. Nelson, Camila Balbontin, David A. Hensher, Matthew Beck,
+A comparative analysis of University Sustainable Travel Plans – Experience from Australia,
+Transport Policy,
+Volume 141,
+2023,
+Pages 197-208,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.07.021.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23002019)
+Abstract: Travel Demand Management (TDM) initiatives are widely applied by transport planners to establish and enable appropriate use of critical transport infrastructure. Less attention has been given to the specific case of TDM in an education precinct (university) context. Travel Plans have been promoted as a means for an organisation to encourage sustainable travel choices by their employees, visitors and customers. This paper offers an empirical contribution to the literature through a comparative qualitative evaluation of selected University Sustainable Travel Plans (USTPs) in Australia to identify the most important questions that a USTP should address explicitly. The evaluation comprised identification of a set of evaluation questions, completion of a template for each USTP considered and application of a simple scoring exercise. We also identify TDM measures that have been introduced as part of a USTP in response to the typical travel patterns exhibited in university settings. A contribution of this paper is to create a means of comparison of USTPs and to establish the components of a comprehensive travel plan.
+Keywords: Sustainable travel plans; Travel demand management; Education precinct TDM; Sustainable travel choices
+
+Ransford A. Acheampong, Crystal Legacy, Richard Kingston, John Stone,
+Imagining urban mobility futures in the era of autonomous vehicles—insights from participatory visioning and multi-criteria appraisal in the UK and Australia,
+Transport Policy,
+Volume 136,
+2023,
+Pages 193-208,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.03.020.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23000872)
+Abstract: Autonomous Vehicles (AVs) present enormous uncertainties and challenges for future urban transport and mobility. While urban and transportation planning have significant roles to play in shaping these futures, a critical challenge is identifying and reconciling divergent values and competing visions in relation to this potentially disruptive transport technology and the associated mobility services. In this paper, we demonstrate the use of a participatory multi-criteria visioning and appraisal framework and methodology to enable stakeholders to envision, identify and interrogate essential tensions between imagined AV futures and long-term transport and mobility imperatives. Based on workshops with stakeholders at the forefront of policy and practice, and academia in Greater Manchester (UK) and Melbourne (Australia), we reveal several insights. Regarding the prospects of AVs, our participants are neither ‘opponents’ nor ‘evangelists’, but instead, manifest the contrasting attitudes and perspectives of excitement, optimism, ambivalence, scepticism and uncertainty all at the same time. In the visions outlined and appraised, our stakeholders identify AVs prospects in various use cases, such as public transport, personal and shared-use and urban freight and delivery applications, while at the same time recognising the inherent contradictions between automated driving futures outlined and imperatives such as reversing auto-mobility and creating safe and inclusive urban environments. Finally, the study brings to the fore the significant role of governance in mediating the politics and resolving contestations in critical areas including data management and privacy, cybersecurity and implementing viable business models and ownership arrangements.
+Keywords: Autonomous vehicles; Future transport; Urban futures; Participatory visioning; MCA
+
+Junyi Zhang, Yoshitsugu Hayashi,
+Research frontier of COVID-19 and passenger transport: A focus on policymaking,
+Transport Policy,
+Volume 119,
+2022,
+Pages 78-88,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.02.014.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22000592)
+
+Pengjun Zhao, Yixue Zhang,
+The effects of metro fare increase on transport equity: New evidence from Beijing,
+Transport Policy,
+Volume 74,
+2019,
+Pages 73-83,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.11.009.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18300180)
+Abstract: Transit pricing is one of the major factors influencing transport-related equity. In particular, in developing countries with low car-dependency rates, public transit plays an important role in providing access for disadvantaged groups to desired destinations, such as jobs, education, and health care. Changes in public transit fares can significantly affect residents' travel expenditures and possibly transport-related social equity. However, cases from developed countries dominate the existing literature in the field, and the comparison of equity between flat fare and distance-based fare is scarce. This study aims to fill this gap by examining the case of Beijing. To relieve operators’ financial pressures, the Beijing municipal government replaced its flat metro fare (CNY 2) by a distance-based fare in 2014. Using retrospective survey data, this study analysed the effects of the metro fare increase on transport equity. An index of affordability was established to measure transit equity, and the multivariable models showed that the introduction of a distance-based fare would significantly increase the cost burden of vulnerable residents on metro use with such groups as low-income earners and young workers, who pay more than their counterparts. Because of the unaffordable housing price in Beijing and the different patterns of residence by income, this study also investigated the interaction effects of housing tenure and residential location. The compelling results suggest that residents who owned housing in the suburbs experienced less increase of the transit burden. These findings are interpreted as supporting the construction of affordable housing in suburban areas and integrated transit-oriented as tools to enhance social equity under the circumstance of property-led urban growth.
+Keywords: Social equity; Metro fare; Fare structure; Transport disadvantage; Just pricing; Beijing
+
+Charinee Limsawasd, Nathee Athigakunagorn, Phattadon Khathawatcharakun, Atiwat Boonmee,
+Skip-Stop Strategy Patterns optimization to enhance mass transit operation under physical distancing policy due to COVID-19 pandemic outbreak,
+Transport Policy,
+Volume 126,
+2022,
+Pages 225-238,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.07.014.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22002013)
+Abstract: After the widespread impact of the COVID-19 pandemic, all public transport, including urban rail transit, inevitably adopted a vigorous physical-distancing policy to prevent the disease from spreading among passengers. Adoption of this measure resulted in a substantial reduction in train service capability and required control of the risk contact exposure duration. Thus, this paper proposes the Skip-Stop Strategy Patterns (3S–P) decision-support model to incorporate social distancing constraints in train operations. The 3S–P model is a two-stage, multi-objective optimization model for scheduling train skip-stop patterns to satisfy the study's two main objectives of minimizing the average passenger travel time and unserved passengers. In the proposed model, the first optimization identifies the optimal train skip-stop patterns, while the second assigns these patterns to establish an hourly train schedule. The paper's case study uses data from the Bangkok Mass Transit System (BTS) SkyTrain Silom Line in Bangkok, Thailand and considers the 0.5, 1, 1.5, and 2 m social distancing schemes. The results reveal that the optimal train skip-stop patterns are superior to the all-stop alternative with, on average, a 13.4% faster travel time at the same level of unserved passengers. Furthermore, the non-dominated schedules from the second optimization decrease the numbers of unserved passengers given equal average passenger travel times.
+Keywords: Public transport planning; Train skip-stopping patterns; Passenger travel time; Unserved passengers; COVID-19
+
+G. Porter, E. Murphy, F. Adamu, P.B. Dayil, A. De Lannoy, S. Han, H. Mansour, C. Dungey, H. Ahmad, B. Maskiti, Clark S, K. Van der Weidje,
+Women’s mobility and transport in the peripheries of three African cities: Reflecting on early impacts of COVID-19,
+Transport Policy,
+Volume 110,
+2021,
+Pages 181-190,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.05.025.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21001694)
+Abstract: This paper reflects on the mobility experiences of women in African cities in COVID-19, based on research conducted both prior to and following entry into the COVID-19 ‘moment’. It draws on material collected during an ongoing action research study aimed at addressing the everyday transport and mobility challenges faced by young women living in poor peripheral communities of three African cities – Abuja, Cape Town and Tunis. The project has the specific objective of supporting young women's improved access to employment opportunities through trialling various mobility/transport-related skills interventions (based on prior in-depth analysis of mobility constraints). With the onset of COVID-19 some readjustments to the research focus and planned interventions became necessary. The research teams, together with an NGO partner, are now working to chart how young women's everyday experiences of mobility and transport - both as transport users and as transport sector workers - are changing as processes of lockdown and their relaxation evolve. The paper covers the period from early 2019 through to March 2021, and offers reflections regarding ‘lived experiences’ of mobility practice pre-pandemic, during the pandemic, and the potential longer-term mobility-related impacts for women resident in low-income neighbourhoods in a post-COVID-19 era. This leads to consideration of key policy lessons. There is potential for prioritisation of Non-Motorised Transport interventions towards a green restart that would benefit women (for instance through promoting women's cycling), and for growing women's participation as transport operators, even perhaps the usage of drones to aid women's safer pedestrian travel. But such interventions will require far greater representation of women in COVID-19 and wider transport decision-making entities than has hitherto been the case.
+Keywords: Lockdown; Mobility; City periphery; Risk; Vulnerability
+
+Jennifer L. Kent, Corinne Mulley, Nick Stevens,
+Challenging policies that prohibit public transport use: Travelling with pets as a case study,
+Transport Policy,
+Volume 99,
+2020,
+Pages 86-94,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.08.024.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19302999)
+Abstract: Any serious challenge to car-dependency requires a better understanding of barriers to the uptake of alternative transport modes, including public transport. Such barriers will be complex and contextual. They may be major, such as the absence of a time competitive public transport option, or a collection of minor, seemingly peripheral inconsistencies between the needs of the user and the operation of the system. This paper provides a comprehensive examination of one such barrier – the restriction of pets on public transport. Typically, cities in Europe, and many in North America and the UK, permit dogs to ride public transport with their carers. Australian cities, in contrast, are more restrictive, deeming the popular practice of dog ownership in Australian cities a relatively car-dependent affair. Drawing from a survey of 1091 Sydney residents, we examine reactions to a hypothetical change in the city's pets on public transport policy to allow dogs to ride with their carers. Specifically, we examine the level of support for the policy change, explore who supports and who would be against the change, and unpick the potential impact of a policy change on user behaviour. We find a low level of opposition to policy change (23%), with only a small portion of respondents indicating that a policy to allow pets on public transport would discourage their use of public transport (21%). The key determinants of policy support relate to attitudes to dogs rather than transport related characteristics, highlighting the need for transport policy makers to look beyond transport issues when considering policy change. The paper concludes with reflections on the importance of investigating the smaller ways public transport policy might be able to encourage transition away from private car use.
+
+Amparo Moyano, Héctor S. Martínez, José M. Coronado,
+From network to services: A comparative accessibility analysis of the Spanish high-speed rail system,
+Transport Policy,
+Volume 63,
+2018,
+Pages 51-60,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.11.007.
+(https://www.sciencedirect.com/science/article/pii/S0967070X17301440)
+Abstract: High-speed rail (HSR) was originally conceived to connect large metropolitan areas in competition with air transport and suitable for distances between 400 km and 600 km. Since the opening of the first HSR, several studies have been undertaken to evaluate the increased accessibility HSR provides. The accessibility indicators used in these assessments consider the characteristics of the new transport system (speed, layout, stops, etc.) that are fundamentally related to the infrastructure itself. However, many studies on HSR have also highlighted the importance of providing services (timetables, frequencies, and fares). A high-performance infrastructure such as HSR may not reach its full potential in terms of accessibility and reducing travel times unless adequate services are provided. Considering this service approach, the paper presents a comparative accessibility analysis of the Spanish high-speed rail network based on two indicators: one focused on the potential connectivity between stations (location-based measure) and the other based on actual HSR services (schedule-based measure). This latter calculation has been established taking into account the available time at the destination and the associated travel costs. The use of this measure to assess the accessibility of the Spanish HSR network provides a new perspective on the real usefulness of this infrastructure. Comparing these two measures helps us evaluate the extent to which the services provided in each city allow the HSR network to reach its full potential accessibility. The comparison also highlights many dissimilarities among cities. This method provides a useful tool for transport planning and improving city design strategies.
+Keywords: High speed rail; Accessibility indicators; Efficiency; Supply of services; Schedules
+
+Orly Linovski, Kevin Manaugh, Dwayne Marshall Baker,
+The route not taken: Equity and transparency in unfunded transit proposals,
+Transport Policy,
+Volume 122,
+2022,
+Pages 77-84,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.04.015.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22001160)
+Abstract: Transportation equity research and assessments undertaken by academics and practitioners stretches back decades. Despite the abundance of work, questions still remain about how decisions are made in the transportation planning process, including how routes are analyzed and prioritized. To understand this, we examine the potential equity outcomes of bus rapid transit routes that were neither funded nor constructed in three Canadian case studies (Ottawa, ON; Winnipeg, MB; and York, ON). Through a mixed-methods approach including spatial analysis, content analysis, and interviews, we analyze the equity implications of both built and unbuilt route options, and transparency in the planning processes. Relying primarily on publicly-available data may have limitations for understanding decision-making, yet it also provides insight into the transparency of processes. While in some cases, built BRT routes serve a larger proportion overall of high-need census tracts than proposed options, several unbuilt route options would have likely provided greater improvements for equity-seeking groups in these cities. Despite the push towards increased public engagement in transportation planning, we find a lack of explicit or systematic documentation as to why routes were discarded. With multiple priorities shaping transportation planning and decision-making, planners and policy-makers should be explicit in both the selection criteria used and how they are weighted.
+Keywords: Bus rapid transit; Equity; Transparency; Decision-making; Alternatives analysis; Transit infrastructure
+
+Eleonora Morganti, Michael Browne,
+Technical and operational obstacles to the adoption of electric vans in France and the UK: An operator perspective,
+Transport Policy,
+Volume 63,
+2018,
+Pages 90-97,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.12.010.
+(https://www.sciencedirect.com/science/article/pii/S0967070X1730224X)
+Abstract: Since the mid-1990s European urban freight transport has undergone several major changes with direct impact on vehicle use patterns. These include (i) freight vehicle downsizing and (ii) the dieselisation of van fleets (formally referred to as light commercial vehicles or LCVs). More recently, a new possible trend has started to emerge, mainly related to alternative fuelled LCVs for reducing air pollution emissions in urban areas. Electric LCVs up to 3.5 tons are considered a suitable option for last mile operations, yet only a few last mile operators are replacing their diesel fleets with electric vans. In order to probe electric LCV acceptance in the freight transport sector, we conducted 15 experiment-oriented interviews with urban freight transport and service operators who tested and adopted electric vans, exploring technical and operational obstacles in daily operations in Paris and London. Additional interviews (8) have been conducted with policymakers, to update the initial survey. The results show that, in addition to range concerns issues, last mile operators’ perception and acceptance of electric vans are affected by other concerns, such as queue, payload and grid anxieties. A number of financial and non-financial incentives to foster the adoption of electric vans are identified and compared by considering the cities of Paris and London. The research also explored potential policy tools for mitigating the detected barriers.
+Keywords: Electric vans; Urban freight transport; Paris; London
+
+Lianjie Jin, Jing Chen, Jiuh-Biing Sheu, Huixin Zhou, Yanchun Jian, Bin Yu,
+Impacts of national strategies on gateway ports: An empirical study in the Bohai Rim,
+Transport Policy,
+Volume 117,
+2022,
+Pages 1-11,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2021.12.022.
+(https://www.sciencedirect.com/science/article/pii/S0967070X21003759)
+Abstract: National strategies have a large influence on the development of ports, especially gateway ports. The Bohai Rim is facing a new round of China's national strategies. It could be predicted that the statuses of the regional gateway ports in the international liner shipping network would change. In this paper, AIS data are adopted to identify the gateway ports in the Bohai Rim. With consideration of the choice behaviour of shippers and the uncertainty of the effects of national strategies, a liner network optimization model is constructed to estimate the service frequency of liners at four gateway ports (Qingdao, Tianjin, Dalian, Busan). On this basis, the roles of these ports in the global liner shipping network and the competitiveness regarding typical shipping routes (U.S., European and Southeast Asian routes) are investigated. The results reveal the following: (i) The transport demand growth brought by the revitalization strategy of the Old Industrial Base would significantly promote the status of Dalian Port. The calling frequencies of Qingdao Port would be improved, narrowing the gap in route density between it and Busan Port. However, more than expected, this growth might weaken the competitiveness of Tianjin Port, especially regarding U.S. and Southeast Asian routes. (ii) The pilot free trade zone (FTZ) policy could significantly promote the service frequencies of trunk routes at the Qingdao, Tianjin and Dalian Ports. When trade facilitation reaches the same level as that of Busan Port, the calling frequencies of Qingdao Port might surpass those of Busan Port.
+Keywords: Gateway port; Container shipping; Policy scenario analysis; Bohai-Rim port cluster
+
+Shawky Mansour, Mohammed Alahmadi, Ammar Abulibdeh,
+Spatial assessment of audience accessibility to historical monuments and museums in Qatar during the 2022 FIFA World Cup,
+Transport Policy,
+Volume 127,
+2022,
+Pages 116-129,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.08.022.
+(https://www.sciencedirect.com/science/article/pii/S0967070X22002414)
+Abstract: Hosting mega sports events is a key driver for sustainable development, particularly through fostering tourism marketing and planning. Although the 2022 FIFA World Cup has received considerable attention, as the first global event hosted in the Middle East and Arab world, studies that highlight and investigate the potential benefits of hosting such an event are rare. This study assessed the geographical accessibility to archaeological sites, monuments, and museums across Qatar, providing clear guidelines on how to represent the national cultural and historical heritage to global audiences during the 2022 mega event, to maximise socioeconomic revenue. Spatial data were assembled within GIS platforms to assess accessibility utilising geospatial techniques, such as the average nearest neighbour, near analysis, spatial autocorrelation (Moran ‘I Index), and cost distance to estimate travel times. The analysis indicated that the archaeological sites are spatially clustered, predominantly concentrated in Doha and Al-Rayan municipalities, where historical and cultural landmarks are located. However, most castles, forts, and archaeological sites located outside the capital zone are less accessible, and at a long distance from hotels and residential areas. As the hosting stadiums are located along the northeast coast and within the most populous zone, the museums, towers, and cultural landscapes are easily accessible within a short travel time (less than 10 min). As a host community, planners and policymakers in Qatar may benefit from this research, as a spatial guideline to promote sustainable development of tourism, through facilitating accessibility to monuments and museums, as well as enriching the representation of the national tangible heritage to a global audience.
+Keywords: GIS; Audience accessibility; Archaeological heritage; Museums; 2022 FIFA World cup; Qatar
+
+Rodolfo Benevenuto, Brian Caulfield,
+Poverty and transport in the global south: An overview,
+Transport Policy,
+Volume 79,
+2019,
+Pages 115-124,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.04.018.
+(https://www.sciencedirect.com/science/article/pii/S0967070X17308636)
+Abstract: The primary objective of the United Nations Development Programme to 2030 is to lift more than 736 million people out of extreme poverty (UN, 2019). In this sense, this paper addresses the potential contributions of transport policies to poverty reduction in the Global South. Several studies addressing this topic are qualitatively assessed through an extended version of Church et al.'s (2000) framework of transport-related exclusion. Insights on topics that pervade the interactions between transport and poverty are discussed to shed light on how transport policies can effectively tackle the intergenerational poverty transfer. Finally, this work concludes by connecting such insights and gaps of literature to propose a convergence of the reviewed studies emphasising the importance and urgency of a new standard of transport policies strongly committed to eradicating poverty.
+Keywords: Poverty reduction; Transport planning; Global south
+
+Daniel Bloyce, Chris White,
+When transport policy becomes health policy: A documentary analysis of active travel policy in England,
+Transport Policy,
+Volume 72,
+2018,
+Pages 13-23,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.09.012.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18302646)
+Abstract: There has been a succession of policy documents related to active travel published by the British government since the implementation of a National Cycle Network (NCN) in 1995. However, as the latest National Travel Survey (NTS) reveals, the number of journeys made by bike in the UK has remained steadfastly around only 2% (Department for Transport [DfT], 2018a). By using documentary analysis of the available official policy documents and statements, the aim of this paper is to make sense of the policies that have been published concerning active travel (AT) in England. This is done from a figurational sociological perspective. Three key themes emerge from the analysis: (1) the rhetorical, advisory level of the vast majority of the policies; (2) the reliance on a wide network of local authorities to implement AT policy; and (3) the focus placed on individuals to change their behaviour. Furthermore, the analysis reveals that despite a large number of policy publications from a range of government departments claiming to promote AT, little has actually changed in this time period in terms of a national agenda. Despite the successive policies, it seems there is little appetite on behalf of recent governments to make widespread infrastructural changes, where instead the focus has largely been on persuading the individual to seek more active modes of travel, increasingly for their own, individual ‘health’ gains.
+Keywords: Active travel; Policy; Cycling; Walking; Health; Healthism; Climate change; Environment; Figurational sociology
+
+Thomas Alexander Sick Nielsen, Sonja Haustein,
+On sceptics and enthusiasts: What are the expectations towards self-driving cars?,
+Transport Policy,
+Volume 66,
+2018,
+Pages 49-55,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.03.004.
+(https://www.sciencedirect.com/science/article/pii/S0967070X17302937)
+Abstract: Automation in transport is increasing rapidly. While it is assumed that automated driving will have a significant impact on travel demand, the nature of this impact is not clear yet. Based on an online survey (N = 3040), this study explores the expected consequences of automated driving in the Danish population. Participants were divided into three homogeneous segments based on attitudes towards automated and conventional car driving: Sceptics (38%); Indifferent stressed drivers (37%) and Enthusiasts (25%). The attitudinal segments differ in their socio-demographic profiles, current travel behaviour, interest in use-cases for self-driving cars, and anticipated changes of behaviour in a future with self-driving cars. People who are enthusiastic about self-driving cars are typically male, young, highly educated, and live in large urban areas, while Sceptics are older, car reliant and more often live in less densely populated areas. The indifferent group consists of more car reluctant people. The expected advantages of self-driving cars generally resemble the aspects highlighted in other studies, such as relief from driving tasks and the possibility of doing other things while travelling, with some variation between the three segments. Preferred future scenarios include car ownership rather than sharing solutions as well as residential relocation, which is considered by 22% of all participants as a consequence of the possibility of working in the car (13% of Sceptics; 28% of Enthusiasts). All in all, increased travel demand can be expected from an uptake of increasingly automated cars, which will be realised in the different segments with different speeds, depending on policies, business models, and proven functionality and safety.
+Keywords: Automated driving; Automated vehicles; User acceptance; Attitude; Segmentation; Travel demand
+
+Maarten Kroesen, Dimitris Milakis, Bert van Wee,
+Automated Vehicles: Changes in expert opinions over time,
+Transport Policy,
+Volume 136,
+2023,
+Pages 1-10,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2023.03.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X23000586)
+Abstract: Innovations in transportation can contribute to reaching relevant societal objectives (e.g. reduce emissions, congestion levels and/or risks). To determine which innovations to stimulate (and which not) it is important for policy makers to assess their effects on beforehand. Expert judgement is an often-used method for this purpose. Although expert opinions can provide useful input for decision-making, these judgement are potentially subject to change, for example, due to new information becoming available or because the (academic) discussion about the innovation in question takes a new turn. Studies that explicitly study stability and change in expert judgements are rare, but highly relevant to determine the reliability of experts' assessments. To address this gap, this study assesses experts’ judgments at multiple points in time focusing on the effects of a transport innovation with potentially widespread societal implications, namely Automated Vehicles (AVs). To this end a survey was administrated to a group of experts involved in the WISE-ACT project. The results indicate that expert opinions towards this innovation are generally favorable; AVs are believed to reduce congestion delays, greenhouse gas emissions and traffic accidents. Although the consulted experts are generally quite stable in their opinions, they are becoming less optimistic about these positive effects over time. A Q-factor analysis additionally reveals two clusters of experts, one with a positive and one a negative outlook on AVs. The latter group beliefs that AVs will lower the value of travel time, thereby increasing travel demand, and, in turn, emission and congestion levels. Overall, the changing and diverging opinions among experts indicate that the transition to AVs is not necessarily regarded as a desirable one.
+Keywords: Automated vehicles; Panel survey; Expert judgement; Q-factor analysis

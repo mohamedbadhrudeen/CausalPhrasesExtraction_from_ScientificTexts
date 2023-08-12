@@ -1,0 +1,117 @@
+Yuting Hou, Winston Yap, Rochelle Chua, Siqi Song, Belinda Yuen,
+The associations between older adults’ daily travel pattern and objective and perceived built environment: A study of three neighbourhoods in Singapore,
+Transport Policy,
+Volume 99,
+2020,
+Pages 314-328,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.06.017.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19306092)
+Abstract: The increasing preference for ageing-in-place highlights the pivotal role of the neighbourhood environment in meeting the mobility needs of older adults. This paper examines the combined associations of objective and subjective measures of built environment features with older adults' travel pattern in Singapore. A multivariate ordered probit (OP) modelling framework is applied to examine older adults' daily trip frequency by four transport modes: walking, public bus, Mass Rapid Transit/Light Rapid Transit (MRT/LRT), and private motorized modes, while controlling for the correlations among the use of different modes. The results show that while perceived access to recreational facilities exert independent positive effects on older adults' daily walking trip frequency and enhance the effects of comparable objective measures, other subjective measures do not significantly moderate the effects of objective features on walking trip-making, including those of actual access to utilitarian destinations, the availability of sheltered walkways and unsafe pedestrian crossings near residence. The results also find independent positive effects of perceptions of transit proximity and comfortable and safe pedestrian connections on older adults’ daily transit trip-making.
+
+Houshmand E. Masoumi,
+A discrete choice analysis of transport mode choice causality and perceived barriers of sustainable mobility in the MENA region,
+Transport Policy,
+Volume 79,
+2019,
+Pages 37-53,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.04.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18306103)
+Abstract: Although there is considerable number of studies on urban travel mode choice, there are still two gaps: we have limited understanding of perceived and attitudinal barriers of sustainable modes and motives of personal car use, and the causes (not correlations) of mode choice decisions are almost unknown for certain geographical contexts such as the Middle East and North Africa (MENA). This study seeks to answer three questions: (1) what are the main barriers to choosing sustainable transport modes like active mobility and public transportation in the Middle East and North Africa? (2) which attitudinal or physical determinants define the transportation mode choice intentions and decisions in Tehran, Istanbul, and Cairo? and (3) what are the differences between the determinants of mode choice decisions in the case cities compared with those of Western societies? In this study, the data collected from 8284 interviewees in Tehran, Istanbul, and Cairo in 2017 were applied in a discrete choice model. The dependent variables of the modeling were the perceived main reasons against walking, biking, and public transit ridership, and the main factor encouraging car-driving. According to the findings, long walking distances, absences or lack of biking infrastructures, social and cultural problems and pressures against biking, and personal preference for cars compared to public transport prevent passengers from walking, biking, and using public transport. Comfort and convenience are the factors that make people avoid public transit in favor of cars. These determinants are fairly different from the main determinants of mode choice decisions in the Western societies. By applying a multinomial logistic regression model, 11 variables related to travel characteristics, perceptions, land-use and neighborhood, socio-economics, and self-selection were found significant or marginally significant in explaining all four models: the barriers to walking, biking, and public transit-use, and the motives for car-use. These findings support the hypothesis of this study that there are differences between the perceived and physical barriers to sustainable mobility as well as the motives of car-use in MENA megacities compared to Western societies. In short, mode-choice decisions and perceived determinants are context-sensitive. The conclusions of this study could be applied in urban and transportation planning in the MENA region to promote more sustainable mobility modes.
+Keywords: Urban transportation planning; Urban travel mode choice; Travel behavior; Multinomial logit model; Middle east and north africa
+
+Marc Gaudry,
+The utility of journeys, from Dupuit's constant-time bridge crossing hops to commutes of chosen duration and reliability in the Paris region,
+Transport Policy,
+Volume 70,
+2018,
+Pages 53-68,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.01.010.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18300659)
+Abstract: We estimate demand functions for work trip duration, assumed to combine the expected value of endured transport service and a safety margin constructed by the commuter. Duration is explained by transport service itself, along with other variables, and the issue of its composition is formulated as that of the elasticity of duration with respect to that service. The existence of the safety margin is established by the failure of a unit elasticity test and its role as offset to the uncertainty of transport service by findings of elasticity estimates smaller than unity. Estimation is made by Box-Cox models and their fitted values formally calculated for the first three moments of outcomes. These conditions met, we extract from best fitted trip durations the absolute and relative impacts of explanatory variables on their first three moments, notably marginal rates of substitution among these moments, assumed to reveal relative moment utility valuations. In particular, absolute impacts of service on duration moments modify the time profile distribution of trip demand and close the traffic demand model. The distinct elasticities of these moments with respect to service together imply that improvements in mean service lead to contractions in the time profile of demand and to fourth moment superpeaks of demand simultaneously consistent with large net improvements in lower-order moment utility. Differences in reliability preferences, demonstrated here for private car and public transit trips and for men and women, imply slightly different superpeaks in these four markets defined for the Greater Paris region, Île-de-France, with home-based morning rush trips. Our approach is based on the assumption that preferences for distributions are moment dependent, i.e. characterized solely by their empirical moments, and that time moments of trips up to and including the fourth matter to utility. Transport project evaluation should not be concerned merely with Dupuit-like utility of new quantities at mean time cost, but also with Allais-inspired service reliability effects, including fast fill-ups of new highways and super-peaks on new or newly automated transit lines.
+Keywords: Travel time; Safety margin; Time profile of transport demand; Moment dependent utility (MDU); Jules Dupuit; Maurice Allais
+
+Agnivesh Pani, Prasanta K. Sahu, Gopal R. Patil, Ashoke K. Sarkar,
+Modelling urban freight generation: A case study of seven cities in Kerala, India,
+Transport Policy,
+Volume 69,
+2018,
+Pages 49-64,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.05.013.
+(https://www.sciencedirect.com/science/article/pii/S0967070X17304535)
+Abstract: This paper presents a set of freight generation (FG) models for seven cities in Kerala, India. Models were formulated by considering business size variables that capture establishment freight activity. Model estimation results revealed that business size indicators such as number of employees and gross floor area explained the freight generation well. Number of years in business (YB) was identified as another variable and considered in model specification to estimate FG. Detailed investigation of single variable FG models suggested that employment-based models are suitable for cities with dense commercial activities and higher land value, while area-based models better represented FG in cities with medium level of urbanization. Area appears to be a skewed indicator for representing business size in cities with dense commercial activities. In this case, where acquiring area is difficult, employment may be a better representative of growth in freight activity. As an extension of city specific FG models, three types of combined FG models were developed to provide quantitative statistical evidence for differences in model specifications across the cities. The statistical findings from these models suggest that freight activities are influenced by the interaction of establishment characteristics and its location. Interaction effect is more prominent when area is used to represent the business size. Since a systematic commodity flow survey practice is absent in India, planners and policy makers can be benefited from this study while making decisions on freight specific investment schemes and freight operation strategies. The interaction FG models discussed subsequently in this study may be utilized in transportation planning application for the state, regional and corridor level network capacity needs.
+Keywords: Freight generation; Regression; Establishment based freight survey; Employment; Floor area; Location interaction
+
+Jean Ryan, Anders Wretstrand, Steven M. Schmidt,
+Disparities in mobility among older people: Findings from a capability-based travel survey,
+Transport Policy,
+Volume 79,
+2019,
+Pages 177-192,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2019.04.016.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18301318)
+Abstract: Despite some incremental policy shifts accounting for transport equity concerns, the norms within which transport systems worldwide currently function are still implicitly exclusive. Older people constitute a group which is particularly susceptible to issues within the transport system. However, this susceptibility is not evenly distributed, partly due to the considerable heterogeneity in circumstances among this group. The aim of this study is to advance the methods informing the transport equity policy agenda by conducting an empirical investigation of disparities in capabilities based on Sen's Capability Approach. This is done by identifying which resources and characteristics among those aged 65–79 are associated with fewer opportunities relative to their peers. By focusing on capabilities (instead of proxies), the disparities reflecting equity concerns can be more clearly depicted. The research material comprises 1149 interviews with those living in Sweden's large metropolitan regions: Stockholm, Gothenburg and Malmö. Several analyses were developed in order to address the research questions: a multivariate multinomial logistic regression, multivariate binary logistic regressions and a basic analysis of frequencies. Clear links were identified between social resources, holding a driving license, access to public transport, income, health condition and age and capabilities. These results call for a greater focus on capabilities in travel surveys and a more fine-grained approach to equity analyses and policies by accounting for intersectionality effects. As such, more targeted and holistic policy measures can be developed.
+Keywords: Transport equity; Older people; Capability approach; Mobility; Transport; Sweden
+
+Yamini Jain Singh, Azhari Lukman, Johannes Flacke, Mark Zuidgeest, M.F.A.M. Van Maarseveen,
+Measuring TOD around transit nodes - Towards TOD policy,
+Transport Policy,
+Volume 56,
+2017,
+Pages 96-111,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2017.03.013.
+(https://www.sciencedirect.com/science/article/pii/S0967070X16302505)
+Abstract: Transit Oriented Development (TOD) can stimulate sustainable development by improving the interaction between transit and the surrounding development. Planning for TOD around existing transit nodes can only be effective if the assessment of the base situation is done properly. To do so, we propose a methodology to quantitatively measure existing levels of TOD in terms of a TOD Index, within walkable distance of a transit node, by measuring various criteria that define TOD. The value of a TOD index indicates the level to which TOD supporting characteristics are inplace around a transit node and what may be required to be improved so as to attain better transit orientation of thedevelopment. With these results in hand, TOD planning proposals can become more accurate by targeting investments on the most relevant or critical factors. The methodology was applied to the city region of Arnhem and Nijmegen, The Netherlands. A TOD index was calculated for areas around the 21 train stations in the region. The results help in drawing TOD policy for the region by identifying which station areas need more attention than others and at the same time, for each station, identifying specific TOD characteristic(s) that need improvement.
+
+Ida Kristoffersson, Andrew Daly, Staffan Algers,
+Modelling the attraction of travel to shopping destinations in large-scale modelling,
+Transport Policy,
+Volume 68,
+2018,
+Pages 52-62,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.04.013.
+(https://www.sciencedirect.com/science/article/pii/S0967070X1730447X)
+Abstract: Development of major shopping centres continues even though online shopping is increasing. This has implications for mode and destination choice for shopping travel and therefore also for sustainability, which need to be considered in planning policy. In this paper, we estimate models for shopping travel using an unusually rich data set of shopping attractions. We find that shopping travel is best represented in three separate models: consumables in short and long activity segments and durables. In all of these models, we show that representing nearby attractions outside the destination zone adds to the measured attraction. For long activity consumables and for durables, the addition of secondary attractions within 2 km of the main destination gives the best models. For short activity consumables, both 2 km and 5 km add to the model, but 5 km is slightly better. Furthermore, we find significant within-zone correlation in the consumables models but are unable to find significant between-zone correlation, indicating that zone boundaries have some behavioural meaning for shopping travellers, but larger areas are not viewed in this way. Shopping attractions with a specifically Swedish impact, Systembolaget (official alcohol outlet in Sweden) and IKEA, proved to be important in all the models. These attractors work better as part of the size than as part of the utility, indicating that they appear to be separate attractors of trips, rather than as adding to the utility of other attractors. The models are also applied in two policy scenario analyses in which the impacts of new IKEA establishments and availability of Systembolaget in all zones on destination and mode choice are assessed.
+Keywords: Shopping travel behaviour; Large-scale modelling; Travel attractions; Planning policy; R12; R14; R15; R41; R42; R48
+
+Marco Batarce, Patricia Galilea,
+Cost and fare estimation for the bus transit system of Santiago,
+Transport Policy,
+Volume 64,
+2018,
+Pages 92-101,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2018.01.002.
+(https://www.sciencedirect.com/science/article/pii/S0967070X18300374)
+Abstract: This paper studies the costs of the transit system of Santiago, Chile, and proposes pricing schedules to finance it considering a fixed amount of subsidy. We estimate a cost function for the firms providing bus services in Santiago and study their industrial structure. We also estimate a demand model using aggregate data, which delivers information on the demand price elasticity and the effect of other variables related to the supply (e.g., capacity and frequency). Finally, we compute four pricing schedules: uniform price with and without subsidy and two-part tariffs with and without subsidy. Our results show that: (i) the industry exhibits economies of scale when considering both demand-oriented and supply-oriented output measures; (ii) measures of technical efficiency are consistent with the observed exit of firms from the market; (iii) the budget-balanced fare without subsidy is higher than the actual fare, suggesting that subsidies are justified; (iv) the budget-balanced fare with subsidy is higher than the actual fare, suggesting that subsidies are insufficient; (v) two-part tariffs either with or without subsidy are the most effective means of increasing bus travel demand and user welfare; and (vi) a menu of tickets with two options (a uniform price and a two-part tariff) is a Pareto-improving pricing schedule that balances the budget and increases bus travel demand.
+Keywords: Cost estimation; Public transportation; Ramsey pricing; Two-part tariffs; Subsidy
+
+Aalok Kumar, Ramesh Anbanandam,
+Assessment of environmental and social sustainability performance of the freight transportation industry: An index-based approach,
+Transport Policy,
+Volume 124,
+2022,
+Pages 43-60,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2020.01.006.
+(https://www.sciencedirect.com/science/article/pii/S0967070X19305256)
+Abstract: The freight transportation activities having an impact on the freight logistics process. The environmental and social sustainability-related processes are poorly managed compared to the economic process. The quality of environmental and social sustainability (EnSoS) practices ought to be enhanced by measuring current sustainability practices, and at the same time, obstacles to sustainability have to be identified. Some of the previous work try to develop a sustainability framework, but less attention is paid to develop the EnSoS assessment framework for the freight transport industry. To bridge this research gap, this study develops an EnSoS framework based on an integrated multi-criteria decision-making (MCDM) method, i.e., fuzzy best-worst method (FBWM) and fuzzy logic approach. The proposed framework evaluates the current sustainability performance with an index and highlights the obstacles to the sustainable freight transportation system. The proposed framework presents two sustainability enablers, nine dimensions, and sixty-three sustainability attributes, including ten new attributes. The FBWM method is used to compute the fuzzy importance weight of attributes, whereas the fuzzy logic is used to assess the performance of each attribute. The proposed framework is validated with the case of the Indian freight industry. The fuzzy transportation EnSoS index (FTEnSoSI) is computed as (3.511, 6.366, 8.418), and close to ‘very environmental and social sustainable (VESS)’ label. The fuzzy performance importance index (FPII) is computed to assess the performance of each attribute. Based on FPII value, thirty attributes are identified as obstacles to transport sustainability. The result analysis presented proposed policy measures for improving EnSoS obstacles.
+Keywords: Sustainability index; Environmental and social sustainability; Fuzzy BWM; Fuzzy logic; Freight transport; Performance measurement
+
+Jamil Hamadneh, Szabolcs Duleba, Domokos Esztergár-Kiss,
+Stakeholder viewpoints analysis of the autonomous vehicle industry by using multi-actors multi-criteria analysis,
+Transport Policy,
+Volume 126,
+2022,
+Pages 65-84,
+ISSN 0967-070X,
+https://doi.org/10.1016/j.tranpol.2022.07.005.
+(https://www.sciencedirect.com/science/article/pii/S0967070X2200186X)
+Abstract: The availability of autonomous vehicles (AVs) on the market will create a novel situation for every stakeholder. A lot of research has been conducted on developing the AVs and the consequences of having AVs on the market, but comprehensive studies concerning various viewpoints on the introduction of AVs into the market can be scarcely found. This research is examining different actors' viewpoints on the acceptance of privately shared autonomous vehicles (PSAVs). Four groups of stakeholders are identified as the following: users, legislators, operators, and manufacturers. The multi-actor multi-criteria analysis (MAMCA) is used, where the analytical hierarchy process (AHP) and the parsimonious AHP (PAHP)methods are applied to evaluate each actor's objectives and criteria. From each group, a representative sample is collected, the actors evaluate a set of pairwise comparison matrices (PCMs), and their consistency is continuously checked. As a result, the objectives and the criteria are ranked and presented. The main finding of the objectives' analysis presents that the safety concerns receive the highest ranking (i.e., weight is 0.085), while the ease of use and the interoperability across the borders have the lowest rankings ((i.e., weight is 0.048, and 0.0515, respectively). The main finding of criteria's analysis shows that ease of use has the lowest ranking (i.e., weight is 0.0024), and the highest rank is related to the reduction in vehicle accidents caused by the malfunction (i.e., weight is 0.0495). Thus, it seems that safety related issues are the most important factor in accepting PSAV. The result of this study is useful for decision-makers and transport planners to form policies, regulations, and guidelines regarding the future implementations of PSAVs before their arrival to the market.
+Keywords: Autonomous vehicle; Multi-actor multi-criteria analysis; MAMCA; Stakeholders; AHP; Analytic hierarchy process
