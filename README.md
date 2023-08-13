@@ -5,12 +5,17 @@ The idea here is to extract causal sentences present in the abstracts of scienti
 
 # Data
 ## Model training
+<div align="justify">
 Here, I have used the dataset from [here](https://github.com/tanfiona/CausalNewsCorpus). The link has multiple dataset related to causal phrases, events, and so on. But, for my project, I have specifically used the subtask-1 dataset in the version 2 folder. If you are using this data, please cite the orginal authors. 
+</div>
 
 ## Scientific Articles
+<div align="justify">
 The abstracts I downloaded are from Scopus database. Particularly, I focused on the journal called "Transport Policy." The abstracts of all papers that are published in Transport Policy journal from year 2017 to 2022. Among these papers, I kept only the papers that are related to transportation planning.   
+</div>
 
 # Spacy Training
+<div align="justify">
 I did not include the trained model as the size of the model was over 500 mb. However, you can use the config.cfg, causal_training_data.spacy, causal_deve_data.spacy to train your own model. causal_training_data.spacy and causal_dev_data.spacy are training and dev data converted into SpaCy's format. The training your custom model process is very simple to do. Follow the steps below.
 
 1. Open the terminal (I used Conda).
@@ -20,9 +25,12 @@ I did not include the trained model as the size of the model was over 500 mb. Ho
 5. Load that model in the CausalPhrasesExtraction.py.
 
 You will notice, I used both trained model and SpaCy's default model. It was because, the trained model did not have 'sentencizer', to split the abstracts into multiple sentences. So, I had to use the default SpaCy's model 'en_core_web_lg'.
+</div>
 
 # End Use
+<div align="justify">
 You can use the extracted causal sentences to look for claims/topics related to transportation planning. Here, I have used a simple dimensionality reduction techniques (PCA, Isomap, TSNE) to see how these causal sentences are distributed in relation to others. 
+</div>
 
 # Questions
 If you have any questions, or suggestions please contact me. You can get my details [here](https://mohamedbadhrudeen.github.io/).
