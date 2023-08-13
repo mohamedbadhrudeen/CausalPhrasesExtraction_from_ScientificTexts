@@ -1,5 +1,7 @@
 # Extracting Causal Phrases from Scientific Texts
-The idea here is to extract causal sentences present in the abstracts of scientific articles. Causal phrases are in a way claims made by the authors of the scientific articles. The reason to use the abstract instead of full paper is beacuse abstract tends be the condensed version of the paper, and focuses on the contributions/claims of that paper. And, it is computationally easier to process. I am using SpaCy package to train the model, and use it to identify the causal phrases in the abstracts. The model is essentially a text categorization model: given a sentence, the model will predict if that sentence has causal phrase(s) or not.   
+<div align="justify">
+The idea here is to extract causal sentences present in the abstracts of scientific articles. Causal phrases are in a way claims made by the authors of the scientific articles. The reason to use the abstract instead of full paper is beacuse abstract tends be the condensed version of the paper, and focuses on the contributions/claims of that paper. And, it is computationally easier to process. I am using SpaCy package to train the model, and use it to identify the causal phrases in the abstracts. The model is essentially a text categorization model: given a sentence, the model will predict if that sentence has causal phrase(s) or not.
+</div> 
 
 # Data
 ## Model training
