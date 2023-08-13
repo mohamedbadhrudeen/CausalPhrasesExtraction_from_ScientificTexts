@@ -86,7 +86,7 @@ for index, row in df.iterrows():
 model = SentenceTransformer('allenai-specter')
 
 # find the embeddings for each causal sentence
-corpus_embeddings = model.encode(data.sentence.to_list(), convert_to_tensor=True)
+corpus_embeddings = model.encode(df.sentence.to_list(), convert_to_tensor=True)
 corpus_embeddings.to_csv('causal_phrases_embeddings.csv', index = False)
 
 
